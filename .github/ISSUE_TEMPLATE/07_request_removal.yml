@@ -1,0 +1,33 @@
+name: 🗑 Source removal request
+description: Scanlators can request their site to be removed
+labels: [Meta request]
+body:
+
+  - type: input
+    id: link
+    attributes:
+      label: Source link
+      placeholder: |
+        Example: "https://notrealscans.org"
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-details
+    attributes:
+      label: Other details
+      placeholder: |
+        Additional details and attachments.
+
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Requirements
+      description: Your request will be denied if you don't meet these requirements.
+      options:
+        - label: I've added a `TXT` DNS record for my domain with the value `tachiyomi-verification`
+          required: true
+        - label: Site only hosts content scanlated by the group and not stolen from other scanlators or official releases (i.e., not an aggregator site)
+          required: true
+        - label: Site is not infested with user-hostile features (e.g., invasive or malicious ads)
+          required: true
