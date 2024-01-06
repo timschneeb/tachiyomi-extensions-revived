@@ -31,7 +31,7 @@ Starting with Tachiyomi version v0.15.0 and later, you can add external extensio
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
 > [!CAUTION]
-> Version 0.15.0 has also introduced a restriction that cripples unofficial extensions. Any unofficial extension is automatically disabled after a cold start of the Tachiyomi app.
+> I just found out that version 0.15.0 has also introduced a restriction that cripples unofficial extensions. Any unofficial extension is automatically disabled after a cold start of the Tachiyomi app.
 > This change renders the new extension repo feature basically useless for 3rd-party developers until a better trust system for extensions is implemented by the devs.
 
 ### Direct APK downloads
