@@ -4,7 +4,9 @@ This repository contains several source extensions that have been removed from t
 
 I'll probably keep maintaining the MangaDex extension here and push fixes if it breaks at some point in future.
 
-Other sources are likely not going to be maintained actively and are stored here for archival purposes instead. Feel free to send pull requests for those though.
+Other sources are likely not going to be maintained actively and are stored here for archival purposes instead. Feel free to send pull requests for those, though.
+
+This repo is a flattened & detached fork because the git history of the upstream repo is over 400 megabytes big.
 
 # Usage
 
