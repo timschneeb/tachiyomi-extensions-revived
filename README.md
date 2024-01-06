@@ -22,6 +22,10 @@ If you prefer to directly download the APK files, they are available via https:/
 
 After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
 
+> [!NOTE]
+> If you're migrating from an old official extension to one from this repo, you need to uninstall the old extension by hand first. This is due to an app signature conflict since I have to use my own signing keys.
+
+
 ## Disclaimer
 
 The developer of this application does not have any affiliation with the content providers available.
