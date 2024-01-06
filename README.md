@@ -30,9 +30,11 @@ Starting with Tachiyomi version v0.15.0 and later, you can add external extensio
 4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
-> [!CAUTION]
+> [!WARNING]
 > I just found out that version 0.15.0 has also introduced a restriction that cripples unofficial extensions. Any unofficial extension is automatically disabled after a cold start of the Tachiyomi app.
 > This change renders the new extension repo feature basically useless for 3rd-party developers until a better trust system for extensions is implemented by the devs.
+>
+> For now, you should keep using the old removed extension APKs signed by the Tachiyomi devs. Those APKs are not affected.
 
 ### Direct APK downloads
 You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
