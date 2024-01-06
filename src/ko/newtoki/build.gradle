@@ -11,7 +11,7 @@ ext {
 
 apply from: "$rootDir/common.gradle"
 
-def domainNumberFileName = "src/ko/newtoki/src/eu/kanade/tachiyomi/extension/ko/newtoki/FallbackDomainNumber.kt"
+def domainNumberFileName = "src/ko/newtoki/src/eu/kanade/tachiyomi/revived/ko/newtoki/FallbackDomainNumber.kt"
 def domainNumberFile = new File(domainNumberFileName)
 def backupFile = new File(domainNumberFileName + "_bak")
 
@@ -23,7 +23,7 @@ task updateDomainNumber {
         domainNumberFile.renameTo(backupFile)
         domainNumberFile.withPrintWriter {
             it.println("// THIS FILE IS AUTO-GENERATED, DO NOT COMMIT")
-            it.println("package eu.kanade.tachiyomi.extension.ko.newtoki")
+            it.println("package eu.kanade.tachiyomi.revived.ko.newtoki")
             it.println("const val fallbackDomainNumber = \"$number\"")
         }
     }

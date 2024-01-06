@@ -3,7 +3,7 @@ apply plugin: 'org.jmailen.kotlinter'
 android {
     compileSdkVersion AndroidConfig.compileSdk
 
-    namespace "eu.kanade.tachiyomi.extension.revived"
+    namespace "eu.kanade.tachiyomi.revived"
     sourceSets {
         main {
             manifest.srcFile "AndroidManifest.xml"

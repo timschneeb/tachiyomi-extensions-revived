@@ -9,7 +9,7 @@ android {
         minSdk = AndroidConfig.minSdk
     }
 
-    namespace = "eu.kanade.tachiyomi.extension.revived"
+    namespace = "eu.kanade.tachiyomi.revived"
 
     @Suppress("UnstableApiUsage")
     sourceSets {

@@ -117,7 +117,7 @@ interface ThemeSourceGenerator {
         fun createGradleProject(source: ThemeSourceData, themePkg: String, themeClass: String, baseVersionCode: Int, userDir: String) {
             // userDir = tachiyomi-extensions project root path
             val projectRootPath = "$userDir/generated-src/${pkgNameSuffix(source, "/")}"
-            val projectSrcPath = "$projectRootPath/src/eu/kanade/tachiyomi/extension/${pkgNameSuffix(source, "/")}"
+            val projectSrcPath = "$projectRootPath/src/eu/kanade/tachiyomi/revived/${pkgNameSuffix(source, "/")}"
             val overridesPath = "$userDir/multisrc/overrides/$themePkg/${source.pkgName}"
             val defaultResPath = "$userDir/multisrc/overrides/$themePkg/default/res"
             val defaultAndroidManifestPath = "$userDir/multisrc/overrides/$themePkg/default/AndroidManifest.xml"
@@ -223,7 +223,7 @@ interface ThemeSourceGenerator {
                 """
                 |/* ktlint-disable */
                 |// THIS FILE IS AUTO-GENERATED; DO NOT EDIT
-                |package eu.kanade.tachiyomi.extension.${pkgNameSuffix(source, ".")}
+                |package eu.kanade.tachiyomi.revived.${pkgNameSuffix(source, ".")}
                 |
                 |import eu.kanade.tachiyomi.multisrc.$themePkg.$themeClass
                 |${if (source is ThemeSourceData.MultiLang) "import eu.kanade.tachiyomi.source.SourceFactory" else ""}
