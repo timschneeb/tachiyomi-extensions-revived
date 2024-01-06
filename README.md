@@ -16,16 +16,24 @@ Extension sources can be downloaded, installed, and uninstalled via the main Tac
 > Tachiyomi does not enable unofficial extension apps by default.
 > **You must manually press the 'TRUST' button** after installing the extension on Tachiyomi's extension management screen!
 
+Google Play Protect may show a warning screen mentioning that the app is published by an unknown developer. This is because I had to use my own freshly created signing key that is not yet recognized by Google. 
+
 ## Downloads
 
+### Add repo to Tachiyomi (v0.15.0+)
+
+Starting with Tachiyomi version v0.15.0 and later, you can add external extension repos!
+
+1. Update to the latest version of Tachiyomi
+2. Go to Settings > Browse > Extension repos > Add
+3. Enter the following URL and accept: `https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json`
+4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
+5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
+
+### Direct APK downloads
 You can directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
 
 After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
-
-> [!NOTE]
-> All extensions in this repo use different package names and are annotated with `(Revived)` in the app.
->
-> Automatic extension updates are not possible for side-loaded/unofficial extensions. You will need to install future updates manually.
 
 ## Disclaimer
 
