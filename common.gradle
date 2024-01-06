@@ -3,7 +3,7 @@ apply plugin: 'org.jmailen.kotlinter'
 android {
     compileSdkVersion AndroidConfig.compileSdk
 
-    namespace "eu.kanade.tachiyomi.extension"
+    namespace "eu.kanade.tachiyomi.extension.revived"
     sourceSets {
         main {
             manifest.srcFile "AndroidManifest.xml"
@@ -25,7 +25,7 @@ android {
         applicationIdSuffix pkgNameSuffix
         versionCode extVersionCode
         versionName project.ext.properties.getOrDefault("libVersion", "1.4") + ".$extVersionCode"
-        setProperty("archivesBaseName", "tachiyomi-$pkgNameSuffix-v$versionName")
+        setProperty("archivesBaseName", "tachiyomi-$pkgNameSuffix-revived-v$versionName")
         def readmes = project.projectDir.listFiles({ File file ->
             file.name == "README.md" || file.name == "CHANGELOG.md"
         } as FileFilter)
@@ -36,7 +36,7 @@ android {
             file.name.startsWith("CHANGELOG")
         }
         manifestPlaceholders = [
-                appName : "Tachiyomi: $extName",
+                appName : "Tachiyomi: $extName (Revived)",
                 extClass: extClass,
                 extFactory: project.ext.properties.getOrDefault("extFactory", ""),
                 nsfw: project.ext.properties.getOrDefault("isNsfw", false) ? 1 : 0,
