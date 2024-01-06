@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.firstkissmangaclub
+package eu.kanade.tachiyomi.revived.en.firstkissmangaclub
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

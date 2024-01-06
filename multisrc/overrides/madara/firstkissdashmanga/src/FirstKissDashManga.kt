@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.firstkissdashmanga
+package eu.kanade.tachiyomi.revived.en.firstkissdashmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 
