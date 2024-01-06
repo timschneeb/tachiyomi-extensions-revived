@@ -24,6 +24,8 @@ After installing any unofficial extension, you must **manually** enable the exte
 
 > [!NOTE]
 > All extensions in this repo use different package names and are annotated with `(Revived)` in the app.
+>
+> Automatic extension updates are not possible for side-loaded/unofficial extensions. You will need to install future updates manually.
 
 ## Disclaimer
 
