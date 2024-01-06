@@ -20,7 +20,7 @@ Google Play Protect may show a warning screen mentioning that the app is publish
 
 ## Downloads
 
-### Add repo to Tachiyomi (v0.15.0+)
+### Add this repo to Tachiyomi (v0.15.0+)
 
 Starting with Tachiyomi version v0.15.0 and later, you can add external extension repos!
 
