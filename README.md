@@ -31,7 +31,7 @@ Starting with Tachiyomi version v0.15.0 and later, you can add external extensio
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
 ### Direct APK downloads
-You can directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
+You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
 
 After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
 
