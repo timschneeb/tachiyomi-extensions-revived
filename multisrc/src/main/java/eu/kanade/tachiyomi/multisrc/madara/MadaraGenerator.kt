@@ -12,7 +12,7 @@ class MadaraGenerator : ThemeSourceGenerator {
     override val baseVersionCode: Int = 32
 
     override val sources = listOf(
-        SingleLang("S2Manga", "https://www.s2manga.com", "en", overrideVersionCode = 2),
+        SingleLang("S2Manga (Revived)", "https://www.s2manga.com", "en", overrideVersionCode = 2, className = "S2Manga"),
     )
 
     companion object {

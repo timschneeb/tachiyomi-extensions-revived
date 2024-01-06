@@ -53,7 +53,7 @@ open class BatoTo(
         Injekt.get<Application>().getSharedPreferences("source_$id", 0x0000)
     }
 
-    override val name: String = "Bato.to"
+    override val name: String = "Bato.to (Revived)"
     override val baseUrl: String = getMirrorPref()!!
     override val id: Long = when (lang) {
         "zh-Hans" -> 2818874445640189582
