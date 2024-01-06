@@ -1,37 +1,29 @@
-| Build | Support Server |
-|-------|---------|
-| [![CI](https://github.com/tachiyomiorg/tachiyomi-extensions/workflows/CI/badge.svg?event=push)](https://github.com/tachiyomiorg/tachiyomi-extensions/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/349436576037732353.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/tachiyomi) |
+# ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions Revived
 
-# ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions
-Tachiyomi is a free and open source manga reader for Android 6.0 and above.
+This repository contains several source extensions that have been removed from the official repository.
 
-This repository contains the available extension catalogues for the [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) app.
+I'll probably keep maintaining the MangaDex extension here and push fixes if it breaks at some point in future.
+
+Other sources are likely not going to be maintained actively and are stored here for archival purposes instead. Feel free to send pull requests for those though.
 
 # Usage
 
 Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
 
+> [!IMPORTANT]
+> Tachiyomi does not enable unofficial extension apps by default.
+> **You must manually press the 'TRUST' button** after installing the extension on Tachiyomi's extension management screen!
+
 ## Downloads
 
-If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/tachiyomiorg/tachiyomi-extensions/tree/repo/apk).
+If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
 
-# Requests
+After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
 
-To request a new source or bug fix, [create an issue](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/new/choose).
+## Disclaimer
 
-Note that requesting something does not imply that something will be added or fixed in a timely fashion or at all since the work is volunteer-based. Furthermore, some sources may be impossible to do or prohibitively difficult to maintain.
+The developer of this application does not have any affiliation with the content providers available.
 
-If you would like to see a request fulfilled and have the necessary skills to do so, consider contributing! Issues are up-for-grabs for any developer if there is no assigned user already.
-
-# Contributing
-
-Contributions are welcome!
-
-Check out the repo's [issue backlog](https://github.com/tachiyomiorg/tachiyomi-extensions/issues) for source requests and bug reports.
-
-To get started with development, see [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-It might also be good to read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -48,7 +40,3 @@ It might also be good to read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-## Disclaimer
-
-The developer of this application does not have any affiliation with the content providers available.
