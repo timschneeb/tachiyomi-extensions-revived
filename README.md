@@ -18,13 +18,12 @@ Extension sources can be downloaded, installed, and uninstalled via the main Tac
 
 ## Downloads
 
-If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
+You can directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
 
 After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
 
 > [!NOTE]
-> If you're migrating from an old official extension to one from this repo, you need to uninstall the old extension by hand first. This is due to an app signature conflict since I have to use my own signing keys.
-
+> All extensions in this repo use different package names and are annotated with `(Revived)` in the app.
 
 ## Disclaimer
 
