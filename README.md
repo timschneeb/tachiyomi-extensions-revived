@@ -33,7 +33,7 @@ Starting with the latest [Tachiyomi **preview** build](https://github.com/tachiy
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
 > [!WARNING]
-> Unofficial extensions must be manually re-approved on Tachiyomi's extension management screen after each extension update.
+> Unofficial extensions must be manually re-approved on Tachiyomi's extension management screen updating the extension!
 
 ### Direct APK downloads
 You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
