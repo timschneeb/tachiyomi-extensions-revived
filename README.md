@@ -12,29 +12,28 @@ This repo is a flattened & detached fork because the git history of the upstream
 
 Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
 
+Google Play Protect may show a warning screen mentioning that the app is published by an unknown developer. This is because I had to use my own freshly created signing key that is not yet recognized by Google. This warning screen should stop showing up after my signing keys have built up enough reputation.
+
 > [!IMPORTANT]
 > Tachiyomi does not enable unofficial extension apps by default.
 > **You must manually press the 'TRUST' button** after installing the extension on Tachiyomi's extension management screen!
 
-Google Play Protect may show a warning screen mentioning that the app is published by an unknown developer. This is because I had to use my own freshly created signing key that is not yet recognized by Google. 
 
 ## Downloads
 
-### Add this repo to Tachiyomi (v0.15.0+)
+### Add this repo to Tachiyomi Preview (r6396 and later)
 
-Starting with Tachiyomi version v0.15.0 and later, you can add external extension repos!
+Starting with the latest [Tachiyomi **preview** build](https://github.com/tachiyomiorg/tachiyomi-preview/releases) (r6396 and later), you can now add external extension repos without having to re-approve unofficial extensions after each app launch!
 
-1. Update to the latest version of Tachiyomi
+ 
+1. Update to the latest version of [Tachiyomi Preview](https://github.com/tachiyomiorg/tachiyomi-preview/releases) (the regular app doesn't contain the change yet)
 2. Go to Settings > Browse > Extension repos > Add
 3. Enter the following URL and accept: `https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json`
 4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
 > [!WARNING]
-> I just found out that version 0.15.0 has also introduced a restriction that cripples unofficial extensions. Any unofficial extension is automatically disabled after a cold start of the Tachiyomi app.
-> This change renders the new extension repo feature basically useless for 3rd-party developers until a better trust system for extensions is implemented by the devs.
->
-> For now, you should keep using the old removed extension APKs signed by the Tachiyomi devs. Those APKs are not affected.
+> Unofficial extensions must be manually re-approved on Tachiyomi's extension management screen after each extension update.
 
 ### Direct APK downloads
 You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
