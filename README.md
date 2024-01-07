@@ -32,8 +32,10 @@ Starting with the latest [Tachiyomi **preview** build](https://github.com/tachiy
 4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
-> [!WARNING]
+> [!NOTE]
 > Unofficial extensions must be manually re-approved on Tachiyomi's extension management screen after installing an update for an extension!
+>
+> If Tachiyomi suddenly complains about a missing source, then there probably was an extension update that needs to be approved.
 
 ### Direct APK downloads
 You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
