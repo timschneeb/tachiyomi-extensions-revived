@@ -11,7 +11,7 @@ This repo is a flattened & detached fork because the git history of the upstream
 ### Extensions in this repo
 
 * MangaDex
-* Bato.to
+* Bato.to (fixed, works again)
 * NewToki / ManaToki
 * S2Manga
 
