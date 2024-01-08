@@ -183,6 +183,12 @@ jobs:
           ref: master
           path: master
 
+      - name: Checkout repo branch
+        uses: actions/checkout@v4
+        with:
+          ref: repo
+          path: repo
+
       - name: Create repo artifacts
         run: |
           cd master
@@ -191,12 +197,6 @@ jobs:
           curl -L "$INSPECTOR_LINK" -o ./Inspector.jar
           java -jar ./Inspector.jar "apk" "output.json" "tmp"
           ./.github/scripts/create-repo.sh
-
-      - name: Checkout repo branch
-        uses: actions/checkout@v4
-        with:
-          ref: repo
-          path: repo
 
       - name: Deploy repo
         run: |
