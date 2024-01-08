@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Bato.to (Revived)",
     "pkg": "eu.kanade.tachiyomi.revived.all.batoto",
-    "apk": "tachiyomi-all.batoto-revived-v1.4.32.apk",
+    "apk": "tachiyomi-all.batoto-revived-v1.4.33.apk",
     "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 1,
