@@ -29,12 +29,12 @@ Google Play Protect may show a warning screen mentioning that the app is publish
 
 ## Downloads
 
-### Add this repo to Tachiyomi Preview (r6396 and later)
+### Add this repo to Tachiyomi (v0.15.2 and later)
 
-Starting with the latest [Tachiyomi **preview** build](https://github.com/tachiyomiorg/tachiyomi-preview/releases) (r6396 and later), you can now add external extension repos without having to re-approve unofficial extensions after each app launch!
+Starting with the latest [Tachiyomi version](https://tachiyomi.org/download/) (v0.15.2 and later), you can now add external extension repos without having to re-approve unofficial extensions after each app launch!
 
  
-1. Update to the latest version of [Tachiyomi Preview](https://github.com/tachiyomiorg/tachiyomi-preview/releases)
+1. Update to the latest version of [Tachiyomi](https://tachiyomi.org/download/)
 2. Go to Settings > Browse > Extension repos > Add
 3. Enter the following URL and accept: `https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json`
 4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
