@@ -4,11 +4,11 @@ import android.app.Application
 import android.widget.Toast
 import androidx.preference.EditTextPreference
 import androidx.preference.PreferenceScreen
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.POST
 import eu.kanade.tachiyomi.revived.zh.happymh.dto.ChapterListDto
 import eu.kanade.tachiyomi.revived.zh.happymh.dto.PageListResponseDto
 import eu.kanade.tachiyomi.revived.zh.happymh.dto.PopularResponseDto
-import eu.kanade.tachiyomi.network.GET
-import eu.kanade.tachiyomi.network.POST
 import eu.kanade.tachiyomi.source.ConfigurableSource
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.MangasPage

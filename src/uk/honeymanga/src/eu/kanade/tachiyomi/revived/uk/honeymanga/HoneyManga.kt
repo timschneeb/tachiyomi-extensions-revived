@@ -1,13 +1,13 @@
 package eu.kanade.tachiyomi.revived.uk.honeymanga
 
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.POST
+import eu.kanade.tachiyomi.network.interceptor.rateLimitHost
 import eu.kanade.tachiyomi.revived.uk.honeymanga.dtos.CompleteHoneyMangaDto
 import eu.kanade.tachiyomi.revived.uk.honeymanga.dtos.HoneyMangaChapterPagesDto
 import eu.kanade.tachiyomi.revived.uk.honeymanga.dtos.HoneyMangaChapterResponseDto
 import eu.kanade.tachiyomi.revived.uk.honeymanga.dtos.HoneyMangaDto
 import eu.kanade.tachiyomi.revived.uk.honeymanga.dtos.HoneyMangaResponseDto
-import eu.kanade.tachiyomi.network.GET
-import eu.kanade.tachiyomi.network.POST
-import eu.kanade.tachiyomi.network.interceptor.rateLimitHost
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.MangasPage
 import eu.kanade.tachiyomi.source.model.Page

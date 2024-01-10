@@ -1,13 +1,13 @@
 package eu.kanade.tachiyomi.revived.vi.yurineko
 
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.asObservableSuccess
+import eu.kanade.tachiyomi.network.interceptor.rateLimit
 import eu.kanade.tachiyomi.revived.vi.yurineko.dto.ErrorResponseDto
 import eu.kanade.tachiyomi.revived.vi.yurineko.dto.MangaDto
 import eu.kanade.tachiyomi.revived.vi.yurineko.dto.MangaListDto
 import eu.kanade.tachiyomi.revived.vi.yurineko.dto.ReadResponseDto
 import eu.kanade.tachiyomi.revived.vi.yurineko.dto.UserDto
-import eu.kanade.tachiyomi.network.GET
-import eu.kanade.tachiyomi.network.asObservableSuccess
-import eu.kanade.tachiyomi.network.interceptor.rateLimit
 import eu.kanade.tachiyomi.source.model.Filter
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.MangasPage

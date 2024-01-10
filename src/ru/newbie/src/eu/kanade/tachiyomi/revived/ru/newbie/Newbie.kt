@@ -7,6 +7,10 @@ import android.content.SharedPreferences
 import android.os.Build
 import android.widget.Toast
 import androidx.preference.ListPreference
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.POST
+import eu.kanade.tachiyomi.network.asObservableSuccess
+import eu.kanade.tachiyomi.network.interceptor.rateLimitHost
 import eu.kanade.tachiyomi.revived.ru.newbie.dto.BookDto
 import eu.kanade.tachiyomi.revived.ru.newbie.dto.BranchesDto
 import eu.kanade.tachiyomi.revived.ru.newbie.dto.LibraryDto
@@ -17,10 +21,6 @@ import eu.kanade.tachiyomi.revived.ru.newbie.dto.SearchLibraryDto
 import eu.kanade.tachiyomi.revived.ru.newbie.dto.SearchWrapperDto
 import eu.kanade.tachiyomi.revived.ru.newbie.dto.SeriesWrapperDto
 import eu.kanade.tachiyomi.revived.ru.newbie.dto.SubSearchDto
-import eu.kanade.tachiyomi.network.GET
-import eu.kanade.tachiyomi.network.POST
-import eu.kanade.tachiyomi.network.asObservableSuccess
-import eu.kanade.tachiyomi.network.interceptor.rateLimitHost
 import eu.kanade.tachiyomi.source.ConfigurableSource
 import eu.kanade.tachiyomi.source.model.Filter
 import eu.kanade.tachiyomi.source.model.FilterList

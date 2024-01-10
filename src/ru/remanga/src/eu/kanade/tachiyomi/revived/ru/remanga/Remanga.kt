@@ -6,6 +6,10 @@ import android.content.SharedPreferences
 import android.os.Build
 import android.widget.Toast
 import androidx.preference.ListPreference
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.asObservable
+import eu.kanade.tachiyomi.network.asObservableSuccess
+import eu.kanade.tachiyomi.network.interceptor.rateLimitHost
 import eu.kanade.tachiyomi.revived.ru.remanga.dto.BookDto
 import eu.kanade.tachiyomi.revived.ru.remanga.dto.BranchesDto
 import eu.kanade.tachiyomi.revived.ru.remanga.dto.ChunksPageDto
@@ -21,10 +25,6 @@ import eu.kanade.tachiyomi.revived.ru.remanga.dto.PagesDto
 import eu.kanade.tachiyomi.revived.ru.remanga.dto.SeriesWrapperDto
 import eu.kanade.tachiyomi.revived.ru.remanga.dto.TagsDto
 import eu.kanade.tachiyomi.revived.ru.remanga.dto.UserDto
-import eu.kanade.tachiyomi.network.GET
-import eu.kanade.tachiyomi.network.asObservable
-import eu.kanade.tachiyomi.network.asObservableSuccess
-import eu.kanade.tachiyomi.network.interceptor.rateLimitHost
 import eu.kanade.tachiyomi.source.ConfigurableSource
 import eu.kanade.tachiyomi.source.model.Filter
 import eu.kanade.tachiyomi.source.model.FilterList

@@ -1,11 +1,11 @@
 package eu.kanade.tachiyomi.revived.th.nekopost
 
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.POST
 import eu.kanade.tachiyomi.revived.th.nekopost.model.RawChapterInfo
 import eu.kanade.tachiyomi.revived.th.nekopost.model.RawProjectInfo
 import eu.kanade.tachiyomi.revived.th.nekopost.model.RawProjectSearchSummary
 import eu.kanade.tachiyomi.revived.th.nekopost.model.RawProjectSummaryList
-import eu.kanade.tachiyomi.network.GET
-import eu.kanade.tachiyomi.network.POST
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.MangasPage
 import eu.kanade.tachiyomi.source.model.Page
