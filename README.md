@@ -1,22 +1,8 @@
 # ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions Revived
 
-This repository contains several source extensions that have been removed from the official repository.
+This repository contains all source extensions that have been removed from the official repository.
 
-I'll probably keep maintaining the MangaDex extension here and push fixes if it breaks at some point in the future.
-
-Other sources are likely not going to be maintained actively by me and are stored here for archival purposes instead. Feel free to send pull requests for those, though.
-
-This repo is a flattened & detached fork because the git history of the upstream repo is over 400 megabytes big.
-
-### Extensions in this repo
-
-* MangaDex
-* Bato.to (fixed, works again)
-* NewToki / ManaToki
-* S2Manga
-
-
-# Usage
+## Usage
 
 Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
 
@@ -26,14 +12,13 @@ Google Play Protect may show a warning screen mentioning that the app is publish
 > Tachiyomi does not enable unofficial extension apps by default.
 > **You must manually press the 'TRUST' button** after installing the extension on Tachiyomi's extension management screen!
 
-
 ## Downloads
 
 ### Add this repo to Tachiyomi (v0.15.2 and later)
 
 Starting with the latest [Tachiyomi version](https://tachiyomi.org/download/) (v0.15.2 and later), you can now add external extension repos without having to re-approve unofficial extensions after each app launch!
 
- 
+
 1. Update to the latest version of [Tachiyomi](https://tachiyomi.org/download/)
 2. Go to Settings > Browse > Extension repos > Add
 3. Enter the following URL and accept: `https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json`
@@ -58,13 +43,13 @@ The developer of this application does not have any affiliation with the content
 ## License
 
     Copyright 2015 Javier Tomás
-
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+    
     http://www.apache.org/licenses/LICENSE-2.0
-
+    
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
