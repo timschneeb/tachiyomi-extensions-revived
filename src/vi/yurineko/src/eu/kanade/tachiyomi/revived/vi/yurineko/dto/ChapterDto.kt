@@ -2,10 +2,10 @@ package eu.kanade.tachiyomi.revived.vi.yurineko.dto
 
 import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
-import kotlinx.serialization.Serializable
 import java.text.SimpleDateFormat
 import java.util.Locale
 import java.util.TimeZone
+import kotlinx.serialization.Serializable
 
 val DATE_FORMATTER = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'", Locale.US).apply {
     timeZone = TimeZone.getTimeZone("Asia/Ho_Chi_Minh")

@@ -1,10 +1,10 @@
 package eu.kanade.tachiyomi.revived.zh.noyacg
 
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.SerialName
-import kotlinx.serialization.Serializable
 import java.text.SimpleDateFormat
 import java.util.Locale
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
 
 const val LISTING_PAGE_SIZE = 20
 

@@ -2,12 +2,12 @@ package eu.kanade.tachiyomi.revived.ja.mangacross
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.Serializable
-import org.jsoup.Jsoup
 import java.text.DateFormat.getDateTimeInstance
 import java.text.SimpleDateFormat
 import java.util.Locale
 import java.util.TimeZone
+import kotlinx.serialization.Serializable
+import org.jsoup.Jsoup
 
 @Serializable
 data class MCComicList(

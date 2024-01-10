@@ -4,10 +4,10 @@ import eu.kanade.tachiyomi.source.model.MangasPage
 import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.Serializable
 import java.text.SimpleDateFormat
 import java.util.Locale
 import java.util.UUID
+import kotlinx.serialization.Serializable
 
 @Serializable
 data class NextData<T>(val props: Props<T>)

@@ -2,11 +2,11 @@ package eu.kanade.tachiyomi.revived.zh.dmzj
 
 import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SManga
+import java.net.URLDecoder
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import okhttp3.Response
 import uy.kohesive.injekt.injectLazy
-import java.net.URLDecoder
 
 const val PREFIX_ID_SEARCH = "id:"
 

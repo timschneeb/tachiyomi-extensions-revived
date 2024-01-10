@@ -2,11 +2,11 @@ package eu.kanade.tachiyomi.revived.zh.vomic
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
+import java.text.SimpleDateFormat
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.JsonElement
 import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonPrimitive
-import java.text.SimpleDateFormat
 
 val SManga.id get() = url.substring(1, 1 + 32)
 

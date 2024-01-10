@@ -3,11 +3,11 @@ package eu.kanade.tachiyomi.revived.ko.navercomic
 import android.annotation.SuppressLint
 import eu.kanade.tachiyomi.network.GET
 import eu.kanade.tachiyomi.source.model.SManga
-import org.jsoup.nodes.Document
-import org.jsoup.nodes.Element
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale
+import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
 
 class NaverWebtoon : NaverComicBase("webtoon") {
     override val name = "Naver Webtoon"

@@ -1,9 +1,9 @@
 package eu.kanade.tachiyomi.revived.zh.dmzj
 
 import android.util.Log
+import java.io.IOException
 import okhttp3.Interceptor
 import okhttp3.Response
-import java.io.IOException
 
 object ImageUrlInterceptor : Interceptor {
 

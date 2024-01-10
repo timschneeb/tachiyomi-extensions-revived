@@ -2,10 +2,10 @@ package eu.kanade.tachiyomi.revived.vi.yurineko.dto
 
 import eu.kanade.tachiyomi.source.model.MangasPage
 import eu.kanade.tachiyomi.source.model.SManga
+import kotlin.math.ceil
 import kotlinx.serialization.Serializable
 import org.jsoup.Jsoup
 import org.jsoup.select.Evaluator
-import kotlin.math.ceil
 
 @Serializable
 data class MangaDto(

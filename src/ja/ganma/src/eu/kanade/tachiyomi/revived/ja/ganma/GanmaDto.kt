@@ -3,9 +3,9 @@ package eu.kanade.tachiyomi.revived.ja.ganma
 import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.Serializable
 import java.text.DateFormat.getDateTimeInstance
 import java.util.Date
+import kotlinx.serialization.Serializable
 
 @Serializable
 class Result<T>(val root: T)

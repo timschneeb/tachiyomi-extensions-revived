@@ -2,11 +2,11 @@ package eu.kanade.tachiyomi.revived.pt.saikaiscan
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
+import java.text.SimpleDateFormat
+import java.util.Locale
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import org.jsoup.Jsoup
-import java.text.SimpleDateFormat
-import java.util.Locale
 
 @Serializable
 data class SaikaiScanResultDto<T>(

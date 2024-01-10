@@ -8,6 +8,7 @@ import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.HttpSource
+import kotlin.experimental.xor
 import okhttp3.Interceptor
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.OkHttpClient
@@ -16,7 +17,6 @@ import okhttp3.Response
 import okhttp3.ResponseBody.Companion.toResponseBody
 import org.jsoup.Jsoup
 import uy.kohesive.injekt.injectLazy
-import kotlin.experimental.xor
 
 class NicovideoSeiga : HttpSource() {
     // Nicovideo Seiga contains illustrations, manga and books from Bookwalker. This extension will focus on manga only.

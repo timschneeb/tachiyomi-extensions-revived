@@ -5,12 +5,12 @@ import android.content.Context
 import android.content.SharedPreferences
 import androidx.preference.ListPreference
 import eu.kanade.tachiyomi.network.GET
+import java.io.IOException
+import kotlin.random.Random
 import okhttp3.Interceptor
 import okhttp3.Response
 import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.get
-import java.io.IOException
-import kotlin.random.Random
 
 private const val DEFAULT_LIST = "https://www.htmanga9.top,https://www.htmanga7.top,https://www.htmanga6.top,https://www.htmanga3.top,https://www.htmanga4.top,https://www.htmanga5.top"
 
