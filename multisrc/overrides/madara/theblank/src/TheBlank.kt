@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.theblank
+package eu.kanade.tachiyomi.revived.en.theblank
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

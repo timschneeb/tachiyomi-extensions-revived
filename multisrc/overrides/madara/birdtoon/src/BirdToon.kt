@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.birdtoon
+package eu.kanade.tachiyomi.revived.id.birdtoon
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

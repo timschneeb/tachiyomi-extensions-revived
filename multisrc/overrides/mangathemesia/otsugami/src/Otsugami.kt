@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.otsugami
+package eu.kanade.tachiyomi.revived.id.otsugami
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

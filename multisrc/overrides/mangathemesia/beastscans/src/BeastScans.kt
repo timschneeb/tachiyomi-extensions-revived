@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.beastscans
+package eu.kanade.tachiyomi.revived.ar.beastscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.SManga

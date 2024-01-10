@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.raikiscan
+package eu.kanade.tachiyomi.revived.es.raikiscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

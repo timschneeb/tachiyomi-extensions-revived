@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhuafast
+package eu.kanade.tachiyomi.revived.en.manhuafast
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

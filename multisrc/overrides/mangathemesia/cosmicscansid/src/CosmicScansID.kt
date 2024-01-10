@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.cosmicscansid
+package eu.kanade.tachiyomi.revived.id.cosmicscansid
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.piscans
+package eu.kanade.tachiyomi.revived.id.piscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

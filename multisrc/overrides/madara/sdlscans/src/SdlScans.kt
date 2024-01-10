@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.sdlscans
+package eu.kanade.tachiyomi.revived.es.sdlscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

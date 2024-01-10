@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.mangaindome
+package eu.kanade.tachiyomi.revived.id.mangaindome
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

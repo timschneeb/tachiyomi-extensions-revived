@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.tonizutoon
+package eu.kanade.tachiyomi.revived.tr.tonizutoon
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.imitui
+package eu.kanade.tachiyomi.revived.zh.imitui
 
 import eu.kanade.tachiyomi.multisrc.sinmh.SinMH
 import eu.kanade.tachiyomi.source.model.Page

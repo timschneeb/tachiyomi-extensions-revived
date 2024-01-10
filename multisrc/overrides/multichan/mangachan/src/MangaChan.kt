@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.mangachan
+package eu.kanade.tachiyomi.revived.ru.mangachan
 
 import eu.kanade.tachiyomi.multisrc.multichan.MultiChan
 import eu.kanade.tachiyomi.network.GET

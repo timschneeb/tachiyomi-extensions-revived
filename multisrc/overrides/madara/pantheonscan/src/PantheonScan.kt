@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.pantheonscan
+package eu.kanade.tachiyomi.revived.fr.pantheonscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

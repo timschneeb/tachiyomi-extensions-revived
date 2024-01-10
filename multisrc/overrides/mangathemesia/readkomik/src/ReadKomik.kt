@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readkomik
+package eu.kanade.tachiyomi.revived.en.readkomik
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

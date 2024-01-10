@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.cafecomyaoi
+package eu.kanade.tachiyomi.revived.pt.cafecomyaoi
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.shonenjumpplus
+package eu.kanade.tachiyomi.revived.ja.shonenjumpplus
 
 import eu.kanade.tachiyomi.multisrc.gigaviewer.GigaViewer
 import okhttp3.OkHttpClient

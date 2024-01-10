@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.summertoon
+package eu.kanade.tachiyomi.revived.tr.summertoon
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

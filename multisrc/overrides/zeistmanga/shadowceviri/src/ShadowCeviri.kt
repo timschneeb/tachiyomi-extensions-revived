@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.shadowceviri
+package eu.kanade.tachiyomi.revived.tr.shadowceviri
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.source.model.MangasPage

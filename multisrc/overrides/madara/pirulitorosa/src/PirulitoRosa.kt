@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.pirulitorosa
+package eu.kanade.tachiyomi.revived.pt.pirulitorosa
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

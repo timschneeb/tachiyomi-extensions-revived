@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.bilibilimanga
+package eu.kanade.tachiyomi.revived.zh.bilibilimanga
 
 import eu.kanade.tachiyomi.multisrc.bilibili.Bilibili
 import eu.kanade.tachiyomi.multisrc.bilibili.BilibiliComicDto

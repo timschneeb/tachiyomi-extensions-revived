@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.allhentai
+package eu.kanade.tachiyomi.revived.ru.allhentai
 
 import android.app.Application
 import android.content.SharedPreferences

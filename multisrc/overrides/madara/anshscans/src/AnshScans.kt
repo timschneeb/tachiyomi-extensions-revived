@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.anshscans
+package eu.kanade.tachiyomi.revived.en.anshscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

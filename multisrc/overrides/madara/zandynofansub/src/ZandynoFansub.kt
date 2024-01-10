@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.zandynofansub
+package eu.kanade.tachiyomi.revived.en.zandynofansub
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 class ZandynoFansub : Madara("Zandy no Fansub", "https://zandynofansub.aishiteru.org", "en") {

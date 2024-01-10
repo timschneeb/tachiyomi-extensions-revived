@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ca.fansubscat
+package eu.kanade.tachiyomi.revived.ca.fansubscat
 
 import eu.kanade.tachiyomi.multisrc.fansubscat.FansubsCat
 

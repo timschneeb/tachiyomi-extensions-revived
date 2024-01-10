@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.bakamh
+package eu.kanade.tachiyomi.revived.zh.bakamh
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

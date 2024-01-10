@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.flixscans
+package eu.kanade.tachiyomi.revived.en.flixscans
 
 import eu.kanade.tachiyomi.multisrc.flixscans.FlixScans
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.cookiekiara
+package eu.kanade.tachiyomi.revived.en.cookiekiara
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SChapter

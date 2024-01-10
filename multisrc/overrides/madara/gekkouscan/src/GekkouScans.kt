@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.gekkouscan
+package eu.kanade.tachiyomi.revived.pt.gekkouscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

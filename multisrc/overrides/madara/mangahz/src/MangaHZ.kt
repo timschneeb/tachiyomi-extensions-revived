@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangahz
+package eu.kanade.tachiyomi.revived.en.mangahz
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

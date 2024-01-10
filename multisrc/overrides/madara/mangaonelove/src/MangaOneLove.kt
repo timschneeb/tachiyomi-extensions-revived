@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.mangaonelove
+package eu.kanade.tachiyomi.revived.ru.mangaonelove
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

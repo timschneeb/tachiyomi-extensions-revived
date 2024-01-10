@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhuaus
+package eu.kanade.tachiyomi.revived.en.manhuaus
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

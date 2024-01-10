@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.vi.ngonphong
+package eu.kanade.tachiyomi.revived.vi.ngonphong
 
 import eu.kanade.tachiyomi.multisrc.a3manga.A3Manga
 

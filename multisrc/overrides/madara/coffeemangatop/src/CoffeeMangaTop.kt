@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.coffeemangatop
+package eu.kanade.tachiyomi.revived.en.coffeemangatop
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

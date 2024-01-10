@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.mangakita
+package eu.kanade.tachiyomi.revived.id.mangakita
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

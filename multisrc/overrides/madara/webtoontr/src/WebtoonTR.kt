@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.webtoontr
+package eu.kanade.tachiyomi.revived.tr.webtoontr
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

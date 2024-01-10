@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.vinmanga
+package eu.kanade.tachiyomi.revived.en.vinmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

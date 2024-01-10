@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhwaxxl
+package eu.kanade.tachiyomi.revived.en.manhwaxxl
 
 import eu.kanade.tachiyomi.multisrc.bakamanga.BakaManga
 

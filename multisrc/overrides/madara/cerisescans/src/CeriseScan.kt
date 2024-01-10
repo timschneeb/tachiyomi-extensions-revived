@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.cerisescans
+package eu.kanade.tachiyomi.revived.pt.cerisescans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

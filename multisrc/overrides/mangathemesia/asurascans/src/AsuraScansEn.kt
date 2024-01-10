@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.asurascans
+package eu.kanade.tachiyomi.revived.all.asurascans
 
 import android.app.Application
 import android.content.SharedPreferences

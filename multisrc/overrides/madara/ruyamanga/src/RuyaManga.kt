@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.ruyamanga
+package eu.kanade.tachiyomi.revived.tr.ruyamanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

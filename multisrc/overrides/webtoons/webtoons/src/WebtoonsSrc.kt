@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.webtoons
+package eu.kanade.tachiyomi.revived.all.webtoons
 
 import android.app.Application
 import android.content.SharedPreferences

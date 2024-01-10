@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.tarotscans
+package eu.kanade.tachiyomi.revived.tr.tarotscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

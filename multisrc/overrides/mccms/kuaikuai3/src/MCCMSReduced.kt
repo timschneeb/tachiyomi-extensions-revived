@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.kuaikuai3
+package eu.kanade.tachiyomi.revived.zh.kuaikuai3
 
 import eu.kanade.tachiyomi.multisrc.mccms.DecryptInterceptor
 import eu.kanade.tachiyomi.network.GET

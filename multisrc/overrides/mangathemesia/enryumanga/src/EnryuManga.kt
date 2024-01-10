@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.enryumanga
+package eu.kanade.tachiyomi.revived.en.enryumanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

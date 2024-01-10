@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.gloryscans
+package eu.kanade.tachiyomi.revived.fr.gloryscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.elarcpage
+package eu.kanade.tachiyomi.revived.en.elarcpage
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

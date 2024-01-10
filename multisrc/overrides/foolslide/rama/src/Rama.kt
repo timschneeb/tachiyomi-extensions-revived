@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.rama
+package eu.kanade.tachiyomi.revived.it.rama
 
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhwa18app
+package eu.kanade.tachiyomi.revived.en.manhwa18app
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

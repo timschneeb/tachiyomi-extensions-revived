@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.kisslove
+package eu.kanade.tachiyomi.revived.ja.kisslove
 
 import eu.kanade.tachiyomi.multisrc.fmreader.FMReader
 import eu.kanade.tachiyomi.network.GET

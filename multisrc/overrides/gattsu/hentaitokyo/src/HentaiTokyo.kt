@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.hentaitokyo
+package eu.kanade.tachiyomi.revived.pt.hentaitokyo
 
 import eu.kanade.tachiyomi.multisrc.gattsu.Gattsu
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangalife
+package eu.kanade.tachiyomi.revived.en.mangalife
 
 import eu.kanade.tachiyomi.multisrc.nepnep.NepNep
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

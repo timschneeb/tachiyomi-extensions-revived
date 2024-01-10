@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mihentai
+package eu.kanade.tachiyomi.revived.all.mihentai
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.FilterList

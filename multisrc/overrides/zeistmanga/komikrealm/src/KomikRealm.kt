@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikrealm
+package eu.kanade.tachiyomi.revived.id.komikrealm
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.Genre
 import eu.kanade.tachiyomi.multisrc.zeistmanga.Status

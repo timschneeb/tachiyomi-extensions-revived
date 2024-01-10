@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.pojokmanga
+package eu.kanade.tachiyomi.revived.id.pojokmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

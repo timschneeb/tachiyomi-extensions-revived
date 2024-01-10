@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.shoujohearts
+package eu.kanade.tachiyomi.revived.en.shoujohearts
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

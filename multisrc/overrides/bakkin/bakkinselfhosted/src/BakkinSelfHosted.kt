@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.bakkinselfhosted
+package eu.kanade.tachiyomi.revived.en.bakkinselfhosted
 
 import androidx.preference.EditTextPreference
 import androidx.preference.PreferenceScreen

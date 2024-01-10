@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.infernalvoidscans
+package eu.kanade.tachiyomi.revived.en.infernalvoidscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

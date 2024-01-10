@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.toongod
+package eu.kanade.tachiyomi.revived.en.toongod
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

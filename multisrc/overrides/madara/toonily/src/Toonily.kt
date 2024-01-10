@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.toonily
+package eu.kanade.tachiyomi.revived.en.toonily
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

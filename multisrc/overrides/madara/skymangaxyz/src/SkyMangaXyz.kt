@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.skymangaxyz
+package eu.kanade.tachiyomi.revived.en.skymangaxyz
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

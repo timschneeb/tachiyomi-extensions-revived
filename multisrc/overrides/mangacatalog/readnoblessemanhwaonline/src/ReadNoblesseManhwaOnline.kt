@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readnoblessemanhwaonline
+package eu.kanade.tachiyomi.revived.en.readnoblessemanhwaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 import eu.kanade.tachiyomi.source.model.SChapter

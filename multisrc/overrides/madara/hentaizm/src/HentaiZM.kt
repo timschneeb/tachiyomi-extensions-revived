@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.hentaizm
+package eu.kanade.tachiyomi.revived.tr.hentaizm
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.POST

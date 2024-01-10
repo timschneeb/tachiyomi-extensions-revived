@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangarosie
+package eu.kanade.tachiyomi.revived.en.mangarosie
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

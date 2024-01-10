@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.immortalupdates
+package eu.kanade.tachiyomi.revived.en.immortalupdates
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

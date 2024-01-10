@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.nitroscans
+package eu.kanade.tachiyomi.revived.en.nitroscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

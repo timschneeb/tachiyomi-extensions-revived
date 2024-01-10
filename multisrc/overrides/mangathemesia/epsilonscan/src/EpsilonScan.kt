@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.epsilonscan
+package eu.kanade.tachiyomi.revived.fr.epsilonscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

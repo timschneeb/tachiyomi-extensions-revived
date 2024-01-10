@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.leryaoi
+package eu.kanade.tachiyomi.revived.pt.leryaoi
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

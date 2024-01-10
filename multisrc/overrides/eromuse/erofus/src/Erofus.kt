@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.erofus
+package eu.kanade.tachiyomi.revived.en.erofus
 
 import eu.kanade.tachiyomi.multisrc.eromuse.EroMuse
 import eu.kanade.tachiyomi.network.asObservableSuccess

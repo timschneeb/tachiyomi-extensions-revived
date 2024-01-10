@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.novelcrow
+package eu.kanade.tachiyomi.revived.en.novelcrow
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

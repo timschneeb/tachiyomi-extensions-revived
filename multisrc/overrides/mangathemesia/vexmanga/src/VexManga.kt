@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.vexmanga
+package eu.kanade.tachiyomi.revived.ar.vexmanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.Page

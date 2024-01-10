@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.ksgroupscans
+package eu.kanade.tachiyomi.revived.en.ksgroupscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

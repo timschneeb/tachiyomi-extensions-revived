@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.wuqimanga
+package eu.kanade.tachiyomi.revived.zh.wuqimanga
 
 import eu.kanade.tachiyomi.lib.unpacker.Unpacker
 import eu.kanade.tachiyomi.multisrc.sinmh.SinMH

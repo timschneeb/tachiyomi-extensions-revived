@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.ler999
+package eu.kanade.tachiyomi.revived.pt.ler999
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

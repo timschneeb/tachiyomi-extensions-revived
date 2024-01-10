@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.batotoscans
+package eu.kanade.tachiyomi.revived.en.batotoscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

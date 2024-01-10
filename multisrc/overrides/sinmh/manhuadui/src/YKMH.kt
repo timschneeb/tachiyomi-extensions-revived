@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.manhuadui
+package eu.kanade.tachiyomi.revived.zh.manhuadui
 
 import eu.kanade.tachiyomi.multisrc.sinmh.SinMH
 import eu.kanade.tachiyomi.source.model.SChapter

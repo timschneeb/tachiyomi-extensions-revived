@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangatxunoriginal
+package eu.kanade.tachiyomi.revived.en.mangatxunoriginal
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

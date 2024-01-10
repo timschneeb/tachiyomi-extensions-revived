@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.mangalib
+package eu.kanade.tachiyomi.revived.ru.mangalib
 
 import android.app.Application
 import android.content.SharedPreferences

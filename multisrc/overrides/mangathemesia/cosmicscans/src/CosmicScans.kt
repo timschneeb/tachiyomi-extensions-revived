@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.cosmicscans
+package eu.kanade.tachiyomi.revived.en.cosmicscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

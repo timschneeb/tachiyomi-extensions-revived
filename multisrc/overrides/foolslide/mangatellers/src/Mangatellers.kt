@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangatellers
+package eu.kanade.tachiyomi.revived.en.mangatellers
 
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide
 

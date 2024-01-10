@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.senkuro
+package eu.kanade.tachiyomi.revived.ru.senkuro
 
 import androidx.preference.PreferenceScreen
 import eu.kanade.tachiyomi.multisrc.senkuro.Senkuro

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.maidscan
+package eu.kanade.tachiyomi.revived.pt.maidscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

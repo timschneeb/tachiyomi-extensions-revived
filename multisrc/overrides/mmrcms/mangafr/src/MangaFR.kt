@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.mangafr
+package eu.kanade.tachiyomi.revived.fr.mangafr
 
 import eu.kanade.tachiyomi.multisrc.mmrcms.MMRCMS
 import eu.kanade.tachiyomi.source.model.SChapter

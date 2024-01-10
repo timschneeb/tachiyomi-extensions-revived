@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline
+package eu.kanade.tachiyomi.revived.en.readnanatsunotaizai7deadlysinsmangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

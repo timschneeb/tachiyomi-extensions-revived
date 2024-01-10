@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline
+package eu.kanade.tachiyomi.revived.en.readchainsawmanmangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.projetoscanlator
+package eu.kanade.tachiyomi.revived.pt.projetoscanlator
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

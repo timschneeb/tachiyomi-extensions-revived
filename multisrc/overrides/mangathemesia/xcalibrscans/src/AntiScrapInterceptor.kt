@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.xcalibrscans
+package eu.kanade.tachiyomi.revived.en.xcalibrscans
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

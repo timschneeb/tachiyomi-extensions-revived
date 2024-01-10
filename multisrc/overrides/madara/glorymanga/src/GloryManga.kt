@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.glorymanga
+package eu.kanade.tachiyomi.revived.tr.glorymanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.magicaltranslators
+package eu.kanade.tachiyomi.revived.all.magicaltranslators
 
 import eu.kanade.tachiyomi.multisrc.guya.Guya
 import eu.kanade.tachiyomi.source.SourceFactory

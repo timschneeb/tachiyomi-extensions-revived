@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.factmanga
+package eu.kanade.tachiyomi.revived.en.factmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

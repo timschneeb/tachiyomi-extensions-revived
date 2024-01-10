@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.harimanga
+package eu.kanade.tachiyomi.revived.en.harimanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

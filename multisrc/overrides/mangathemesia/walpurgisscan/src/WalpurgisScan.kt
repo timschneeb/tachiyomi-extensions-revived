@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.walpurgisscan
+package eu.kanade.tachiyomi.revived.it.walpurgisscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

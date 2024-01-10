@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangaforfree
+package eu.kanade.tachiyomi.revived.all.mangaforfree
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

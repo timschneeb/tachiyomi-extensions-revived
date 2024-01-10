@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline
+package eu.kanade.tachiyomi.revived.en.readtowerofgodmanhwamangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

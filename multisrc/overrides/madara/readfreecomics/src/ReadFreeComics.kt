@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readfreecomics
+package eu.kanade.tachiyomi.revived.en.readfreecomics
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

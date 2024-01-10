@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.arabtoons
+package eu.kanade.tachiyomi.revived.ar.arabtoons
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

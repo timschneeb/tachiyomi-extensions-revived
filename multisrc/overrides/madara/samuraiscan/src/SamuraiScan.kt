@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.samuraiscan
+package eu.kanade.tachiyomi.revived.es.samuraiscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

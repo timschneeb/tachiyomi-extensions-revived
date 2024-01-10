@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.shinigami
+package eu.kanade.tachiyomi.revived.id.shinigami
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

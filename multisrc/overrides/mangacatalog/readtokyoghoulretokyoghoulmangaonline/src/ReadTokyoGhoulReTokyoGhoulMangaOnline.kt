@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline
+package eu.kanade.tachiyomi.revived.en.readtokyoghoulretokyoghoulmangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.baixarhentai
+package eu.kanade.tachiyomi.revived.pt.baixarhentai
 
 import androidx.preference.PreferenceScreen
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide

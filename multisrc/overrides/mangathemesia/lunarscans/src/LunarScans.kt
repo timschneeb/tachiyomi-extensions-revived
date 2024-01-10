@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.lunarscans
+package eu.kanade.tachiyomi.revived.en.lunarscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

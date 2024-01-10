@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manytoon
+package eu.kanade.tachiyomi.revived.en.manytoon
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

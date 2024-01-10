@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.quantumscans
+package eu.kanade.tachiyomi.revived.en.quantumscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

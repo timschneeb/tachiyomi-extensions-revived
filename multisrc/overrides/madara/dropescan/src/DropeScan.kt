@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.dropescan
+package eu.kanade.tachiyomi.revived.pt.dropescan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

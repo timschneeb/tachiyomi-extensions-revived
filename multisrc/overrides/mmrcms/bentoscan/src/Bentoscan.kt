@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.bentoscan
+package eu.kanade.tachiyomi.revived.fr.bentoscan
 
 import eu.kanade.tachiyomi.multisrc.mmrcms.MMRCMS
 import eu.kanade.tachiyomi.network.GET

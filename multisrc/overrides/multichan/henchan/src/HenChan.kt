@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.henchan
+package eu.kanade.tachiyomi.revived.ru.henchan
 
 import android.annotation.SuppressLint
 import android.app.Application

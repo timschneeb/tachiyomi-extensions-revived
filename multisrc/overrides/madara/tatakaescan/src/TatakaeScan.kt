@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.tatakaescan
+package eu.kanade.tachiyomi.revived.pt.tatakaescan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

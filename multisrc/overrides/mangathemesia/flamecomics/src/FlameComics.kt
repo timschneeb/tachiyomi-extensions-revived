@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.flamecomics
+package eu.kanade.tachiyomi.revived.en.flamecomics
 
 import android.app.Application
 import android.graphics.Bitmap

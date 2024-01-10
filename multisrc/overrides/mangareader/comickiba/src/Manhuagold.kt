@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.comickiba
+package eu.kanade.tachiyomi.revived.en.comickiba
 
 import eu.kanade.tachiyomi.multisrc.mangareader.MangaReader
 import eu.kanade.tachiyomi.network.GET

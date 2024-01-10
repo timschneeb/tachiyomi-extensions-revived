@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readvinlandsagamangaonline
+package eu.kanade.tachiyomi.revived.en.readvinlandsagamangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

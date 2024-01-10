@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.thebeginningaftertheend
+package eu.kanade.tachiyomi.revived.fr.thebeginningaftertheend
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

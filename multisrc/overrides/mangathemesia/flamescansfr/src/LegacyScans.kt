@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.flamescansfr
+package eu.kanade.tachiyomi.revived.fr.flamescansfr
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

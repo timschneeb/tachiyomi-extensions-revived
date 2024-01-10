@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.kingofshojo
+package eu.kanade.tachiyomi.revived.ar.kingofshojo
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

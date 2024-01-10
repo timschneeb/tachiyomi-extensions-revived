@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.rumix
+package eu.kanade.tachiyomi.revived.ru.rumix
 
 import android.app.Application
 import android.content.SharedPreferences

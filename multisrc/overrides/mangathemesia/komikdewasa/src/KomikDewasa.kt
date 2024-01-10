@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikdewasa
+package eu.kanade.tachiyomi.revived.id.komikdewasa
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.evascans
+package eu.kanade.tachiyomi.revived.tr.evascans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.Page

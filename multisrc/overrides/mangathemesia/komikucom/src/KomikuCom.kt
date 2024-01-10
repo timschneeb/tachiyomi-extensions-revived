@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikucom
+package eu.kanade.tachiyomi.revived.id.komikucom
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

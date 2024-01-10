@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.infrafandub
+package eu.kanade.tachiyomi.revived.es.infrafandub
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.webdexscans
+package eu.kanade.tachiyomi.revived.en.webdexscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

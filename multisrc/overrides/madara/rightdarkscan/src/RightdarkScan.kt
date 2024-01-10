@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.rightdarkscan
+package eu.kanade.tachiyomi.revived.es.rightdarkscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

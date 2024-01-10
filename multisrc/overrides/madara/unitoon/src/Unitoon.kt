@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.unitoon
+package eu.kanade.tachiyomi.revived.es.unitoon
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

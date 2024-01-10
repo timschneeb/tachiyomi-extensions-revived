@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.mgkomik
+package eu.kanade.tachiyomi.revived.id.mgkomik
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

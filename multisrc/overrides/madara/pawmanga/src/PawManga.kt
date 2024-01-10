@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.pawmanga
+package eu.kanade.tachiyomi.revived.en.pawmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

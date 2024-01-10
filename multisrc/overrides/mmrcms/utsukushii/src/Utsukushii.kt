@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.bg.utsukushii
+package eu.kanade.tachiyomi.revived.bg.utsukushii
 
 import eu.kanade.tachiyomi.multisrc.mmrcms.MMRCMS
 import eu.kanade.tachiyomi.network.GET

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.murimscan
+package eu.kanade.tachiyomi.revived.en.murimscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

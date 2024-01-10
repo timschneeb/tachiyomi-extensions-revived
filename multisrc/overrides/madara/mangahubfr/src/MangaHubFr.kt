@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.mangahubfr
+package eu.kanade.tachiyomi.revived.fr.mangahubfr
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.Page

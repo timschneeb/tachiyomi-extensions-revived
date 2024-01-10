@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.clovermanga
+package eu.kanade.tachiyomi.revived.tr.clovermanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

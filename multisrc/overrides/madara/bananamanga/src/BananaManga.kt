@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.bananamanga
+package eu.kanade.tachiyomi.revived.en.bananamanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

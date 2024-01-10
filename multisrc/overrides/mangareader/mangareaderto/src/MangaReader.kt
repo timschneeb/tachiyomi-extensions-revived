@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangareaderto
+package eu.kanade.tachiyomi.revived.all.mangareaderto
 
 import androidx.preference.PreferenceScreen
 import eu.kanade.tachiyomi.multisrc.mangareader.MangaReader

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.animaregia
+package eu.kanade.tachiyomi.revived.pt.animaregia
 
 import eu.kanade.tachiyomi.multisrc.mmrcms.MMRCMS
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

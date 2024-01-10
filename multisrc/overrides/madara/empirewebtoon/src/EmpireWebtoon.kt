@@ -1,10 +1,10 @@
-package eu.kanade.tachiyomi.extension.ar.empirewebtoon
+package eu.kanade.tachiyomi.revived.ar.empirewebtoon
 
 import android.app.Application
 import android.content.SharedPreferences
 import android.widget.Toast
 import androidx.preference.PreferenceScreen
-import eu.kanade.tachiyomi.extension.BuildConfig
+import eu.kanade.tachiyomi.revived.BuildConfig
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.get

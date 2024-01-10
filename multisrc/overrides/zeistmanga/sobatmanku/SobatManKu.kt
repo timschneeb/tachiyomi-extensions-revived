@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.sobatmanku
+package eu.kanade.tachiyomi.revived.id.sobatmanku
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.source.model.SChapter

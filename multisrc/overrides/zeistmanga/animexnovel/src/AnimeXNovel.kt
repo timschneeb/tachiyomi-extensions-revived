@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.animexnovel
+package eu.kanade.tachiyomi.revived.pt.animexnovel
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.source.model.MangasPage

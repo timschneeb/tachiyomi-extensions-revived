@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.eromiau
+package eu.kanade.tachiyomi.revived.es.eromiau
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

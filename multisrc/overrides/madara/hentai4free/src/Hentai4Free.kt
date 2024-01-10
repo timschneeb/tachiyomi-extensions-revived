@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hentai4free
+package eu.kanade.tachiyomi.revived.en.hentai4free
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.FilterList

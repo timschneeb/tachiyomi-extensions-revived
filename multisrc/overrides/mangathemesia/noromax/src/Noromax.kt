@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.noromax
+package eu.kanade.tachiyomi.revived.id.noromax
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

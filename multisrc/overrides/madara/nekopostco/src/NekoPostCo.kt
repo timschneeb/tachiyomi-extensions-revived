@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.th.nekopostco
+package eu.kanade.tachiyomi.revived.th.nekopostco
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

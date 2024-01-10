@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.drakescans
+package eu.kanade.tachiyomi.revived.en.drakescans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

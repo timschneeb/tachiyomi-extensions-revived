@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.romantikmanga
+package eu.kanade.tachiyomi.revived.tr.romantikmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

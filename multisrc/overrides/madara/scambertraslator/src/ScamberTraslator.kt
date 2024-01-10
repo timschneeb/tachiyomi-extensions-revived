@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.scambertraslator
+package eu.kanade.tachiyomi.revived.es.scambertraslator
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

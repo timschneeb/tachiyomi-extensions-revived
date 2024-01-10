@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.hentailib
+package eu.kanade.tachiyomi.revived.ru.hentailib
 
 import android.app.Application
 import android.content.SharedPreferences

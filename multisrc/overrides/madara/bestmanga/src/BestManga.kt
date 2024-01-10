@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.bestmanga
+package eu.kanade.tachiyomi.revived.ru.bestmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readmanhua
+package eu.kanade.tachiyomi.revived.en.readmanhua
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SChapter

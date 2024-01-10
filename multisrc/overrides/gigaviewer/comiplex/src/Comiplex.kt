@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.comiplex
+package eu.kanade.tachiyomi.revived.ja.comiplex
 
 import eu.kanade.tachiyomi.multisrc.gigaviewer.GigaViewer
 import eu.kanade.tachiyomi.network.GET

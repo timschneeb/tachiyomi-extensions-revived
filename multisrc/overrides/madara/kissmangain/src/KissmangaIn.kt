@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.kissmangain
+package eu.kanade.tachiyomi.revived.en.kissmangain
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.kataitake
+package eu.kanade.tachiyomi.revived.fr.kataitake
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

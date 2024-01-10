@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.webtoons
+package eu.kanade.tachiyomi.revived.all.webtoons
 
 import eu.kanade.tachiyomi.source.Source
 import eu.kanade.tachiyomi.source.SourceFactory

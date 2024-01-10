@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.lyrascans
+package eu.kanade.tachiyomi.revived.en.lyrascans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

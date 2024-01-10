@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangareaderto
+package eu.kanade.tachiyomi.revived.all.mangareaderto
 
 import eu.kanade.tachiyomi.source.model.Filter
 import java.util.Calendar

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.fallenangels
+package eu.kanade.tachiyomi.revived.en.fallenangels
 
 import eu.kanade.tachiyomi.multisrc.mmrcms.MMRCMS
 import eu.kanade.tachiyomi.source.model.SChapter

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.manga3asq
+package eu.kanade.tachiyomi.revived.ar.manga3asq
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

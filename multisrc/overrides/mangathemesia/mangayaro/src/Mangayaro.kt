@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.mangayaro
+package eu.kanade.tachiyomi.revived.id.mangayaro
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

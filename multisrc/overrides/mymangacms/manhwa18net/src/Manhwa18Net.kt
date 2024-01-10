@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.manhwa18net
+package eu.kanade.tachiyomi.revived.all.manhwa18net
 
 import eu.kanade.tachiyomi.multisrc.mymangacms.MyMangaCMS
 import eu.kanade.tachiyomi.source.model.FilterList

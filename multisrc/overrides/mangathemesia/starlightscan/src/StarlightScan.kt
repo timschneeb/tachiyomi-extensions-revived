@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.starlightscan
+package eu.kanade.tachiyomi.revived.pt.starlightscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

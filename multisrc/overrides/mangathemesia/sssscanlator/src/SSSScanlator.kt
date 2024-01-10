@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.sssscanlator
+package eu.kanade.tachiyomi.revived.pt.sssscanlator
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

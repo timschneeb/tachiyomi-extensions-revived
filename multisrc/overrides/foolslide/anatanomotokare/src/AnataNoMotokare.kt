@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.anatanomotokare
+package eu.kanade.tachiyomi.revived.en.anatanomotokare
 
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide
 

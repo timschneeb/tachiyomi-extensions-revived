@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.kuragebunch
+package eu.kanade.tachiyomi.revived.ja.kuragebunch
 
 import eu.kanade.tachiyomi.multisrc.gigaviewer.GigaViewer
 import eu.kanade.tachiyomi.network.GET

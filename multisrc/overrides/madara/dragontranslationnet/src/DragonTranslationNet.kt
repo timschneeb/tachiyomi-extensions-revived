@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.dragontranslationnet
+package eu.kanade.tachiyomi.revived.es.dragontranslationnet
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

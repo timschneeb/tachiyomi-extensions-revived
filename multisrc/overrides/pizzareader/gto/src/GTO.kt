@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.gto
+package eu.kanade.tachiyomi.revived.it.gto
 
 import eu.kanade.tachiyomi.multisrc.pizzareader.PizzaReader
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.astrallibrary
+package eu.kanade.tachiyomi.revived.en.astrallibrary
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

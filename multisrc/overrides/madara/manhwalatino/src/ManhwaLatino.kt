@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.manhwalatino
+package eu.kanade.tachiyomi.revived.es.manhwalatino
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SChapter

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.isekaiscancom
+package eu.kanade.tachiyomi.revived.en.isekaiscancom
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

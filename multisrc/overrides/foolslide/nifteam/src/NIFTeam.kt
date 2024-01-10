@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.nifteam
+package eu.kanade.tachiyomi.revived.it.nifteam
 
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide
 

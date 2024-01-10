@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.bananascan
+package eu.kanade.tachiyomi.revived.fr.bananascan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.ainzscansid
+package eu.kanade.tachiyomi.revived.id.ainzscansid
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

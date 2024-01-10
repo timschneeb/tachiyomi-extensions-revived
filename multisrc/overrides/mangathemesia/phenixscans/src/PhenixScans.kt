@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.phenixscans
+package eu.kanade.tachiyomi.revived.fr.phenixscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.SManga

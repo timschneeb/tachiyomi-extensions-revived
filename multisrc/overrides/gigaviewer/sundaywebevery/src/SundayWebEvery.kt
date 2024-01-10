@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.sundaywebevery
+package eu.kanade.tachiyomi.revived.ja.sundaywebevery
 
 import eu.kanade.tachiyomi.multisrc.gigaviewer.GigaViewer
 import eu.kanade.tachiyomi.source.model.SManga

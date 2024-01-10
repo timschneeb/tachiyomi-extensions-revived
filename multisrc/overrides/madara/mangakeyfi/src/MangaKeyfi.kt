@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.mangakeyfi
+package eu.kanade.tachiyomi.revived.tr.mangakeyfi
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

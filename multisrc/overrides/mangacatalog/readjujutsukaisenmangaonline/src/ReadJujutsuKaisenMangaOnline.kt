@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline
+package eu.kanade.tachiyomi.revived.en.readjujutsukaisenmangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

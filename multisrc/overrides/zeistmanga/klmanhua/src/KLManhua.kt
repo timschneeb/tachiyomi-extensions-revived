@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.klmanhua
+package eu.kanade.tachiyomi.revived.id.klmanhua
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 

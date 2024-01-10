@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.pikiranwibu
+package eu.kanade.tachiyomi.revived.id.pikiranwibu
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

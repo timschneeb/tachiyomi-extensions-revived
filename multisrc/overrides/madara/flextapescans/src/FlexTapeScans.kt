@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.flextapescans
+package eu.kanade.tachiyomi.revived.en.flextapescans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.Page

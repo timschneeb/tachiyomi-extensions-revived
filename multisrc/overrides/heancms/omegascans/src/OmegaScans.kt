@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.omegascans
+package eu.kanade.tachiyomi.revived.en.omegascans
 
 import eu.kanade.tachiyomi.multisrc.heancms.Genre
 import eu.kanade.tachiyomi.multisrc.heancms.HeanCms

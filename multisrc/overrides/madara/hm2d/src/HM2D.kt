@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hm2d
+package eu.kanade.tachiyomi.revived.en.hm2d
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

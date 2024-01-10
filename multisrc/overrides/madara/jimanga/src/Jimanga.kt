@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.jimanga
+package eu.kanade.tachiyomi.revived.en.jimanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

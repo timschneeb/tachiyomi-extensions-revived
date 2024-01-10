@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.hensekai
+package eu.kanade.tachiyomi.revived.id.hensekai
 
 import eu.kanade.tachiyomi.multisrc.zmanga.ZManga
 import java.text.SimpleDateFormat

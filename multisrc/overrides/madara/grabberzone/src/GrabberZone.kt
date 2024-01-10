@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.grabberzone
+package eu.kanade.tachiyomi.revived.all.grabberzone
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SChapter

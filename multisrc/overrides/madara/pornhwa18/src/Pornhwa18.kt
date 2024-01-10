@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.pornhwa18
+package eu.kanade.tachiyomi.revived.id.pornhwa18
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

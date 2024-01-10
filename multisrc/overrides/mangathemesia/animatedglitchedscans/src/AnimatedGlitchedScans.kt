@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.animatedglitchedscans
+package eu.kanade.tachiyomi.revived.en.animatedglitchedscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

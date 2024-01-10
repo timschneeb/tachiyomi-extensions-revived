@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.foxwhite
+package eu.kanade.tachiyomi.revived.pt.foxwhite
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

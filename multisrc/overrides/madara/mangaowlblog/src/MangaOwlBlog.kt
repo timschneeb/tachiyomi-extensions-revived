@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangaowlblog
+package eu.kanade.tachiyomi.revived.en.mangaowlblog
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

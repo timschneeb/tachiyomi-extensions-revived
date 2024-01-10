@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.vi.truyenchon
+package eu.kanade.tachiyomi.revived.vi.truyenchon
 
 import eu.kanade.tachiyomi.multisrc.wpcomics.WPComics
 import eu.kanade.tachiyomi.network.GET

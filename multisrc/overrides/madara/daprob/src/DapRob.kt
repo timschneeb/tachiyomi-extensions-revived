@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.daprob
+package eu.kanade.tachiyomi.revived.es.daprob
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manga18fx
+package eu.kanade.tachiyomi.revived.en.manga18fx
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

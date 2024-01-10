@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.taurusfansub
+package eu.kanade.tachiyomi.revived.es.taurusfansub
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.POST

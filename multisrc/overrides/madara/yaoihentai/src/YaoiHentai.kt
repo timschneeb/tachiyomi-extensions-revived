@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.yaoihentai
+package eu.kanade.tachiyomi.revived.en.yaoihentai
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

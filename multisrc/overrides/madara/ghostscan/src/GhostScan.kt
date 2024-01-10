@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.ghostscan
+package eu.kanade.tachiyomi.revived.pt.ghostscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

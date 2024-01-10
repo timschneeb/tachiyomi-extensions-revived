@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.manga9co
+package eu.kanade.tachiyomi.revived.ja.manga9co
 
 import android.app.Application
 import androidx.preference.ListPreference

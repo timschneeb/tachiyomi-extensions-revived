@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub
+package eu.kanade.tachiyomi.revived.tr.mikrokosmosfansub
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.source.model.Page

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.girlslovemanga
+package eu.kanade.tachiyomi.revived.en.girlslovemanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

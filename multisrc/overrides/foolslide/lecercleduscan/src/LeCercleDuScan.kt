@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.lecercleduscan
+package eu.kanade.tachiyomi.revived.fr.lecercleduscan
 
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide
 import java.util.Locale

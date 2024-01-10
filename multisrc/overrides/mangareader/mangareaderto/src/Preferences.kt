@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangareaderto
+package eu.kanade.tachiyomi.revived.all.mangareaderto
 
 import android.content.Context
 import android.content.SharedPreferences

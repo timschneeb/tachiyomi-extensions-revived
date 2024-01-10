@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.welovemangaone
+package eu.kanade.tachiyomi.revived.ja.welovemangaone
 
 import eu.kanade.tachiyomi.multisrc.fmreader.FMReader
 import eu.kanade.tachiyomi.network.GET

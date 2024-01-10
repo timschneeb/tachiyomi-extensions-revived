@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.manhwaindo
+package eu.kanade.tachiyomi.revived.id.manhwaindo
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

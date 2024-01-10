@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.carteldemanhwas
+package eu.kanade.tachiyomi.revived.es.carteldemanhwas
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

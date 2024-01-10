@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangak2
+package eu.kanade.tachiyomi.revived.en.mangak2
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

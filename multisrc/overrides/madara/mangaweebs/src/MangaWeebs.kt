@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangaweebs
+package eu.kanade.tachiyomi.revived.en.mangaweebs
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

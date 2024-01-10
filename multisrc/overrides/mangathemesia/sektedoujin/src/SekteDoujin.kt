@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.sektedoujin
+package eu.kanade.tachiyomi.revived.id.sektedoujin
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

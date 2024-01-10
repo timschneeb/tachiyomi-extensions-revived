@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.templescan
+package eu.kanade.tachiyomi.revived.en.templescan
 
 import eu.kanade.tachiyomi.multisrc.heancms.Genre
 import eu.kanade.tachiyomi.multisrc.heancms.HeanCms

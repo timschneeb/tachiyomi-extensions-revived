@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readblackclovermangaonline
+package eu.kanade.tachiyomi.revived.en.readblackclovermangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

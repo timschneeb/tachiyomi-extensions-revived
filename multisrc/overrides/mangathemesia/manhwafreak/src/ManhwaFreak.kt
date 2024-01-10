@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhwafreak
+package eu.kanade.tachiyomi.revived.en.manhwafreak
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

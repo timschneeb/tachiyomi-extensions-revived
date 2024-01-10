@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.tresdaosscan
+package eu.kanade.tachiyomi.revived.es.tresdaosscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

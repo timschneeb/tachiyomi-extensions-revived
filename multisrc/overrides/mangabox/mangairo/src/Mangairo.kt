@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangairo
+package eu.kanade.tachiyomi.revived.en.mangairo
 
 import eu.kanade.tachiyomi.multisrc.mangabox.MangaBox
 import eu.kanade.tachiyomi.network.GET

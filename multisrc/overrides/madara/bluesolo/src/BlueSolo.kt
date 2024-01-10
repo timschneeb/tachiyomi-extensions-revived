@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.bluesolo
+package eu.kanade.tachiyomi.revived.fr.bluesolo
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

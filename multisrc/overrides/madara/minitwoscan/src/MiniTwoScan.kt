@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.minitwoscan
+package eu.kanade.tachiyomi.revived.pt.minitwoscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

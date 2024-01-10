@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.ozulscans
+package eu.kanade.tachiyomi.revived.ar.ozulscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

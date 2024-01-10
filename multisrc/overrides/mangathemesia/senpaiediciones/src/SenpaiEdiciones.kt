@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.senpaiediciones
+package eu.kanade.tachiyomi.revived.es.senpaiediciones
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.SManga

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readkingdommangaonline
+package eu.kanade.tachiyomi.revived.en.readkingdommangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

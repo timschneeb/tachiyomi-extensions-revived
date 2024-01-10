@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.xoxocomics
+package eu.kanade.tachiyomi.revived.en.xoxocomics
 
 import eu.kanade.tachiyomi.multisrc.wpcomics.WPComics
 import eu.kanade.tachiyomi.network.GET

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.soulscans
+package eu.kanade.tachiyomi.revived.id.soulscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.SManga

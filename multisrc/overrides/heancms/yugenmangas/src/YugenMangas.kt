@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.yugenmangas
+package eu.kanade.tachiyomi.revived.es.yugenmangas
 
 import android.app.Application
 import android.content.SharedPreferences

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.tyrantscans
+package eu.kanade.tachiyomi.revived.pt.tyrantscans
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.source.model.MangasPage

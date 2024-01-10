@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.topreadmanhwa
+package eu.kanade.tachiyomi.revived.en.topreadmanhwa
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhuaga
+package eu.kanade.tachiyomi.revived.en.manhuaga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import okhttp3.OkHttpClient

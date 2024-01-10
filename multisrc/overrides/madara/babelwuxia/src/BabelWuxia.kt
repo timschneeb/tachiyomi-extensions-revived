@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.babelwuxia
+package eu.kanade.tachiyomi.revived.en.babelwuxia
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.MangasPage

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.rawlh
+package eu.kanade.tachiyomi.revived.ja.rawlh
 
 import eu.kanade.tachiyomi.multisrc.fmreader.FMReader
 import eu.kanade.tachiyomi.network.GET

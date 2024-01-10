@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.worldromancetranslation
+package eu.kanade.tachiyomi.revived.id.worldromancetranslation
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.SManga

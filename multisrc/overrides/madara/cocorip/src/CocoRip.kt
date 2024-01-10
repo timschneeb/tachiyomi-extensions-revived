@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.cocorip
+package eu.kanade.tachiyomi.revived.es.cocorip
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

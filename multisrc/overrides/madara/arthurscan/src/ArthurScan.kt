@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.arthurscan
+package eu.kanade.tachiyomi.revived.pt.arthurscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

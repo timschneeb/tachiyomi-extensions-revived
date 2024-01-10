@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.shadowmangas
+package eu.kanade.tachiyomi.revived.es.shadowmangas
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

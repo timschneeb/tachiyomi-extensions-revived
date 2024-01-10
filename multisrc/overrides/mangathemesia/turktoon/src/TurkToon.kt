@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.turktoon
+package eu.kanade.tachiyomi.revived.tr.turktoon
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

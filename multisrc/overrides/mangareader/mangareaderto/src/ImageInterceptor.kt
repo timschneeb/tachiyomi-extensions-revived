@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangareaderto
+package eu.kanade.tachiyomi.revived.all.mangareaderto
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.mangalionz
+package eu.kanade.tachiyomi.revived.ar.mangalionz
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SManga

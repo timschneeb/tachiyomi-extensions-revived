@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline
+package eu.kanade.tachiyomi.revived.en.readsololevelingmangamanhwaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

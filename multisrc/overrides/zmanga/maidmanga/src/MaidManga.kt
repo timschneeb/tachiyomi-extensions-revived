@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.maidmanga
+package eu.kanade.tachiyomi.revived.id.maidmanga
 
 import eu.kanade.tachiyomi.multisrc.zmanga.ZManga
 import java.text.SimpleDateFormat

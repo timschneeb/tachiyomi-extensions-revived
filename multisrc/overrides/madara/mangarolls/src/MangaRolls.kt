@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangarolls
+package eu.kanade.tachiyomi.revived.en.mangarolls
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

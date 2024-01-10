@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.potatomanga
+package eu.kanade.tachiyomi.revived.ar.potatomanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.model.SManga

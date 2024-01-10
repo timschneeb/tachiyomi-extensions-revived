@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.ssshentais
+package eu.kanade.tachiyomi.revived.pt.ssshentais
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

@@ -1,10 +1,10 @@
-package eu.kanade.tachiyomi.extension.ar.mangalek
+package eu.kanade.tachiyomi.revived.ar.mangalek
 
 import android.app.Application
 import android.content.SharedPreferences
 import android.widget.Toast
 import androidx.preference.PreferenceScreen
-import eu.kanade.tachiyomi.extension.BuildConfig
+import eu.kanade.tachiyomi.revived.BuildConfig
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET
 import eu.kanade.tachiyomi.network.POST

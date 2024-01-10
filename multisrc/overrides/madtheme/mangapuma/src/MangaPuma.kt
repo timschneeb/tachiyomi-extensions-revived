@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangapuma
+package eu.kanade.tachiyomi.revived.en.mangapuma
 
 import eu.kanade.tachiyomi.multisrc.madtheme.MadTheme
 

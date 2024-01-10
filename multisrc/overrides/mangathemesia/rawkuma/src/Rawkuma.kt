@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.rawkuma
+package eu.kanade.tachiyomi.revived.ja.rawkuma
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

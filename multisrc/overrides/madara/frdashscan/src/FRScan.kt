@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.frdashscan
+package eu.kanade.tachiyomi.revived.fr.frdashscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

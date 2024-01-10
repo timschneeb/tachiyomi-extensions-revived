@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.housemangas
+package eu.kanade.tachiyomi.revived.es.housemangas
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.POST

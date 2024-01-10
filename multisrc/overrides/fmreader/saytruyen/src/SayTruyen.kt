@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.vi.saytruyen
+package eu.kanade.tachiyomi.revived.vi.saytruyen
 
 import eu.kanade.tachiyomi.multisrc.fmreader.FMReader
 import eu.kanade.tachiyomi.source.model.Page

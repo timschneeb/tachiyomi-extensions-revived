@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangarockteamunoriginal
+package eu.kanade.tachiyomi.revived.en.mangarockteamunoriginal
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

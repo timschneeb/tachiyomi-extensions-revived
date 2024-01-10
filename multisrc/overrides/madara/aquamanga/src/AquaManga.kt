@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.aquamanga
+package eu.kanade.tachiyomi.revived.en.aquamanga
 
 import android.util.Base64
 import eu.kanade.tachiyomi.multisrc.madara.Madara

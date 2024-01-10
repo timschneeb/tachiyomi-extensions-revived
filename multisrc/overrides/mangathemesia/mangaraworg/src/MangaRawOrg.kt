@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.mangaraworg
+package eu.kanade.tachiyomi.revived.ja.mangaraworg
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

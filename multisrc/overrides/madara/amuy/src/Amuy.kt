@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.amuy
+package eu.kanade.tachiyomi.revived.pt.amuy
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

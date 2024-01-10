@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.dongmanmanhua
+package eu.kanade.tachiyomi.revived.zh.dongmanmanhua
 
 import eu.kanade.tachiyomi.multisrc.webtoons.Webtoons
 import eu.kanade.tachiyomi.network.GET

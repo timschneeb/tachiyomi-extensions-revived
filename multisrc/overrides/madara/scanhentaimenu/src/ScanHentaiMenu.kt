@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.scanhentaimenu
+package eu.kanade.tachiyomi.revived.fr.scanhentaimenu
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

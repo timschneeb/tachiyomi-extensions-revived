@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.asurascansus
+package eu.kanade.tachiyomi.revived.en.asurascansus
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

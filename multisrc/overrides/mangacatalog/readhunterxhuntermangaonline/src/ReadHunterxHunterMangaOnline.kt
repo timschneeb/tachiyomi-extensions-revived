@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline
+package eu.kanade.tachiyomi.revived.en.readhunterxhuntermangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

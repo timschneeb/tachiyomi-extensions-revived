@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangacultivator
+package eu.kanade.tachiyomi.revived.en.mangacultivator
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

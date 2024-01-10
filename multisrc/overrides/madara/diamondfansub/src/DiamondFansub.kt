@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.diamondfansub
+package eu.kanade.tachiyomi.revived.tr.diamondfansub
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

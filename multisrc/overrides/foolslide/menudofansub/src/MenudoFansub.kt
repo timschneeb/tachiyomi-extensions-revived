@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.menudofansub
+package eu.kanade.tachiyomi.revived.es.menudofansub
 
 import eu.kanade.tachiyomi.multisrc.foolslide.FoolSlide
 

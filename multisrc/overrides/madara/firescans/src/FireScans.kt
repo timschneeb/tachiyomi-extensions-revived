@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.firescans
+package eu.kanade.tachiyomi.revived.en.firescans
 
 import android.util.Base64
 import eu.kanade.tachiyomi.lib.cryptoaes.CryptoAES

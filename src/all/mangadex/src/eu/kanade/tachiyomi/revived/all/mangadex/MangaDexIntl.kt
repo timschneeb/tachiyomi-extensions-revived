@@ -20,5 +20,5 @@ object MangaDexIntl {
         RUSSIAN,
     )
 
-    const val MANGADEX_NAME = "MangaDex (Revived)"
+    const val MANGADEX_NAME = "MangaDex"
 }

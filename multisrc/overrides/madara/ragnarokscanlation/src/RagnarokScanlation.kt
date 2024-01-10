@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.ragnarokscanlation
+package eu.kanade.tachiyomi.revived.es.ragnarokscanlation
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

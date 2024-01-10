@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhwaclub
+package eu.kanade.tachiyomi.revived.en.manhwaclub
 
 import eu.kanade.tachiyomi.multisrc.hentaihand.HentaiHand
 import okhttp3.OkHttpClient

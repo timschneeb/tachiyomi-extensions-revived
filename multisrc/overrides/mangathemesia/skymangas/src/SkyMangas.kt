@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.skymangas
+package eu.kanade.tachiyomi.revived.es.skymangas
 
 import android.util.Base64
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia

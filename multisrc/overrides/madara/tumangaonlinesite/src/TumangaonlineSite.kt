@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.tumangaonlinesite
+package eu.kanade.tachiyomi.revived.es.tumangaonlinesite
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

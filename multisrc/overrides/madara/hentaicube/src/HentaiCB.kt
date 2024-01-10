@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.vi.hentaicube
+package eu.kanade.tachiyomi.revived.vi.hentaicube
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.Page

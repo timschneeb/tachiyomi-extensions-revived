@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.coffeemanga
+package eu.kanade.tachiyomi.revived.en.coffeemanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import org.jsoup.nodes.Element

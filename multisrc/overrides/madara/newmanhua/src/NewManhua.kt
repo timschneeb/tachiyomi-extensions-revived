@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.newmanhua
+package eu.kanade.tachiyomi.revived.en.newmanhua
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.selfmanga
+package eu.kanade.tachiyomi.revived.ru.selfmanga
 
 import android.app.Application
 import android.content.SharedPreferences

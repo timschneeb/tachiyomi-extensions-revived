@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.webtooncity
+package eu.kanade.tachiyomi.revived.en.webtooncity
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.westmanga
+package eu.kanade.tachiyomi.revived.id.westmanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readswordartonlinemangaonline
+package eu.kanade.tachiyomi.revived.en.readswordartonlinemangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 import eu.kanade.tachiyomi.source.model.SChapter

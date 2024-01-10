@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangakakalot
+package eu.kanade.tachiyomi.revived.en.mangakakalot
 
 import eu.kanade.tachiyomi.multisrc.mangabox.MangaBox
 import okhttp3.Headers

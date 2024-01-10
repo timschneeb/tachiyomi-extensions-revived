@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.mangacim
+package eu.kanade.tachiyomi.revived.tr.mangacim
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

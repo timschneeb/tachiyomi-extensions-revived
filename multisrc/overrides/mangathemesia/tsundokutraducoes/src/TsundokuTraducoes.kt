@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.tsundokutraducoes
+package eu.kanade.tachiyomi.revived.pt.tsundokutraducoes
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.nightscans
+package eu.kanade.tachiyomi.revived.en.nightscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

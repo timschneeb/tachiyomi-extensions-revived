@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.azora
+package eu.kanade.tachiyomi.revived.ar.azora
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

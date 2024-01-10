@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mmscans
+package eu.kanade.tachiyomi.revived.en.mmscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.POST

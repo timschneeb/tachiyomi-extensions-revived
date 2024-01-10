@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.lolicon
+package eu.kanade.tachiyomi.revived.en.lolicon
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

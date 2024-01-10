@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.qinqin
+package eu.kanade.tachiyomi.revived.zh.qinqin
 
 import android.util.Base64
 import eu.kanade.tachiyomi.multisrc.sinmh.SinMH

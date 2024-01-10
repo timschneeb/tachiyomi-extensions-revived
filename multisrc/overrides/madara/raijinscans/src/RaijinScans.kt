@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.raijinscans
+package eu.kanade.tachiyomi.revived.fr.raijinscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

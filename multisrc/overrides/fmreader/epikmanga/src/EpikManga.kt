@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.tr.epikmanga
+package eu.kanade.tachiyomi.revived.tr.epikmanga
 
 import eu.kanade.tachiyomi.multisrc.fmreader.FMReader
 import eu.kanade.tachiyomi.network.GET

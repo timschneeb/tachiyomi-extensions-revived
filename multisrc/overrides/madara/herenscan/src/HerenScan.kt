@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.herenscan
+package eu.kanade.tachiyomi.revived.es.herenscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

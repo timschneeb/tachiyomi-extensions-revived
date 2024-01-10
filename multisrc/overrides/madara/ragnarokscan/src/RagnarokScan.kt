@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.ragnarokscan
+package eu.kanade.tachiyomi.revived.es.ragnarokscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.multisrc.madara.WordSet

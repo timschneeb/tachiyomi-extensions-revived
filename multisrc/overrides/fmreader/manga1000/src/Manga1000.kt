@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.manga1000
+package eu.kanade.tachiyomi.revived.ja.manga1000
 
 import eu.kanade.tachiyomi.multisrc.fmreader.FMReader
 import eu.kanade.tachiyomi.source.model.SChapter

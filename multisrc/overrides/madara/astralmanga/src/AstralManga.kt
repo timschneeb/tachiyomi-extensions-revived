@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.astralmanga
+package eu.kanade.tachiyomi.revived.fr.astralmanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

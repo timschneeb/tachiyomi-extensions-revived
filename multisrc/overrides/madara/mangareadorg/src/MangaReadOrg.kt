@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangareadorg
+package eu.kanade.tachiyomi.revived.en.mangareadorg
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import org.jsoup.nodes.Element

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readallcomicscom
+package eu.kanade.tachiyomi.revived.en.readallcomicscom
 
 import eu.kanade.tachiyomi.multisrc.readallcomics.ReadAllComics
 import eu.kanade.tachiyomi.source.model.SManga

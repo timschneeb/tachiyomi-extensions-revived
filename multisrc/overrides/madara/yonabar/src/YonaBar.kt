@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.yonabar
+package eu.kanade.tachiyomi.revived.ar.yonabar
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

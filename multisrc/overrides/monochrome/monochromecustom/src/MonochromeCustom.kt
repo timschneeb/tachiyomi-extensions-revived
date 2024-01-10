@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.monochromecustom
+package eu.kanade.tachiyomi.revived.en.monochromecustom
 
 import android.app.Application
 import androidx.preference.EditTextPreference

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.tonarinoyoungjump
+package eu.kanade.tachiyomi.revived.ja.tonarinoyoungjump
 
 import eu.kanade.tachiyomi.multisrc.gigaviewer.GigaViewer
 import eu.kanade.tachiyomi.source.model.SManga

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.komikchan
+package eu.kanade.tachiyomi.revived.en.komikchan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

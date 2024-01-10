@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.reaperscans
+package eu.kanade.tachiyomi.revived.all.reaperscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.SourceFactory

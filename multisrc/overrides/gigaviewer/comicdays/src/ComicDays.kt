@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.comicdays
+package eu.kanade.tachiyomi.revived.ja.comicdays
 
 import eu.kanade.tachiyomi.multisrc.gigaviewer.GigaViewer
 import eu.kanade.tachiyomi.source.model.SManga

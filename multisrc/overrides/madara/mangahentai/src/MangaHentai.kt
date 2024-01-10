@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangahentai
+package eu.kanade.tachiyomi.revived.en.mangahentai
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

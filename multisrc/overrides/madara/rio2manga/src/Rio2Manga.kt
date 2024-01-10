@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.rio2manga
+package eu.kanade.tachiyomi.revived.en.rio2manga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

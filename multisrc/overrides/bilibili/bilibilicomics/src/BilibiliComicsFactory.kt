@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.bilibilicomics
+package eu.kanade.tachiyomi.revived.all.bilibilicomics
 
 import eu.kanade.tachiyomi.multisrc.bilibili.Bilibili
 import eu.kanade.tachiyomi.multisrc.bilibili.BilibiliAccessToken

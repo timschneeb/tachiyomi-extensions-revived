@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.toonily
+package eu.kanade.tachiyomi.revived.en.toonily
 
 import android.util.Log
 import android.webkit.CookieManager

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangakakalots
+package eu.kanade.tachiyomi.revived.en.mangakakalots
 
 import eu.kanade.tachiyomi.multisrc.mangabox.MangaBox
 import eu.kanade.tachiyomi.source.model.MangasPage

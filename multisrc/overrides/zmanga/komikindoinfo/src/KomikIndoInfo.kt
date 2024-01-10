@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikindoinfo
+package eu.kanade.tachiyomi.revived.id.komikindoinfo
 
 import eu.kanade.tachiyomi.multisrc.zmanga.ZManga
 import java.text.SimpleDateFormat

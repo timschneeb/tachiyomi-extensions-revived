@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.shirodoujin
+package eu.kanade.tachiyomi.revived.id.shirodoujin
 
 import eu.kanade.tachiyomi.multisrc.zmanga.ZManga
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.lelmanga
+package eu.kanade.tachiyomi.revived.fr.lelmanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

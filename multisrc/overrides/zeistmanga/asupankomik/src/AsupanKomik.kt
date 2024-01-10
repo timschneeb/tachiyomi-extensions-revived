@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.asupankomik
+package eu.kanade.tachiyomi.revived.id.asupankomik
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 

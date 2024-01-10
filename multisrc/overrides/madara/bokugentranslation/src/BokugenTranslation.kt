@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.bokugentranslation
+package eu.kanade.tachiyomi.revived.es.bokugentranslation
 
 import android.app.Application
 import android.os.Handler

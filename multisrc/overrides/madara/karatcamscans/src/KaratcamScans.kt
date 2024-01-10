@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.karatcamscans
+package eu.kanade.tachiyomi.revived.fr.karatcamscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.apolltoons
+package eu.kanade.tachiyomi.revived.es.apolltoons
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

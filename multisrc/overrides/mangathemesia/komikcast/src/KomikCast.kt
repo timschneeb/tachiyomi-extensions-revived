@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikcast
+package eu.kanade.tachiyomi.revived.id.komikcast
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.GET

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.scyllascans
+package eu.kanade.tachiyomi.revived.en.scyllascans
 
 import eu.kanade.tachiyomi.multisrc.readerfront.ReaderFront
 

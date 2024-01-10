@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.vi.truyentranhlh
+package eu.kanade.tachiyomi.revived.vi.truyentranhlh
 
 import eu.kanade.tachiyomi.multisrc.mymangacms.MyMangaCMS
 

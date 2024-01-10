@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hentairead
+package eu.kanade.tachiyomi.revived.en.hentairead
 
 import android.net.Uri
 import eu.kanade.tachiyomi.multisrc.madara.Madara

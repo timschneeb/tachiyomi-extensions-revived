@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.birdmanga
+package eu.kanade.tachiyomi.revived.en.birdmanga
 
 import android.util.Base64
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia

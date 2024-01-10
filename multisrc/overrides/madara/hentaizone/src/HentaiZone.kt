@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.hentaizone
+package eu.kanade.tachiyomi.revived.fr.hentaizone
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

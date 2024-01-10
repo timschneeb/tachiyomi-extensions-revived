@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.hentaiseason
+package eu.kanade.tachiyomi.revived.pt.hentaiseason
 
 import eu.kanade.tachiyomi.multisrc.gattsu.Gattsu
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

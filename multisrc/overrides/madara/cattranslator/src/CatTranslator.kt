@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.th.cattranslator
+package eu.kanade.tachiyomi.revived.th.cattranslator
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SManga

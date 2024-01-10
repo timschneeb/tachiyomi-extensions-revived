@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.melokomik
+package eu.kanade.tachiyomi.revived.id.melokomik
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

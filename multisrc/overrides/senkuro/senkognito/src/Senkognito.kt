@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.senkognito
+package eu.kanade.tachiyomi.revived.ru.senkognito
 
 import android.app.Application
 import android.content.SharedPreferences

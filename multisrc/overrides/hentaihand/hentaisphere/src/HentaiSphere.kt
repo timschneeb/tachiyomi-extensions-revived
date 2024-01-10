@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hentaisphere
+package eu.kanade.tachiyomi.revived.en.hentaisphere
 
 import eu.kanade.tachiyomi.multisrc.hentaihand.HentaiHand
 import okhttp3.OkHttpClient

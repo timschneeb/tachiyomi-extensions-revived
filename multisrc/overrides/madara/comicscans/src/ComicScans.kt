@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.comicscans
+package eu.kanade.tachiyomi.revived.en.comicscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

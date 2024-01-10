@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.nonbiri
+package eu.kanade.tachiyomi.revived.id.nonbiri
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

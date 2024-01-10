@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.yaoicomics
+package eu.kanade.tachiyomi.revived.pt.yaoicomics
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

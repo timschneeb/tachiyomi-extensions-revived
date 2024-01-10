@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangakomi
+package eu.kanade.tachiyomi.revived.en.mangakomi
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

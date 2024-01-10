@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.phoenixscans
+package eu.kanade.tachiyomi.revived.it.phoenixscans
 
 import eu.kanade.tachiyomi.multisrc.pizzareader.PizzaReader
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.lianscans
+package eu.kanade.tachiyomi.revived.id.lianscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

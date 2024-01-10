@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manhuazonghe
+package eu.kanade.tachiyomi.revived.en.manhuazonghe
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.nocturnalscans
+package eu.kanade.tachiyomi.revived.en.nocturnalscans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

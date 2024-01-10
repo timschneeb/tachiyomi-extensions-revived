@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.webtoonxyz
+package eu.kanade.tachiyomi.revived.en.webtoonxyz
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

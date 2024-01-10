@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.imaginescan
+package eu.kanade.tachiyomi.revived.pt.imaginescan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

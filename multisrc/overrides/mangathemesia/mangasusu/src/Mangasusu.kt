@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.mangasusu
+package eu.kanade.tachiyomi.revived.id.mangasusu
 
 import app.cash.quickjs.QuickJs
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia

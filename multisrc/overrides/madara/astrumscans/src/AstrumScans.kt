@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.astrumscans
+package eu.kanade.tachiyomi.revived.pt.astrumscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

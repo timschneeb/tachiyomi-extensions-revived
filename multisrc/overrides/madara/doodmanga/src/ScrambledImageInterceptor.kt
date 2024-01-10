@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.th.doodmanga
+package eu.kanade.tachiyomi.revived.th.doodmanga
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

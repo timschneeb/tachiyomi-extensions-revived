@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.inarimanga
+package eu.kanade.tachiyomi.revived.es.inarimanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimitHost

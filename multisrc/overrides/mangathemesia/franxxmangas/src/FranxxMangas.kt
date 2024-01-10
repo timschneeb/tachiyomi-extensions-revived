@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.franxxmangas
+package eu.kanade.tachiyomi.revived.pt.franxxmangas
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

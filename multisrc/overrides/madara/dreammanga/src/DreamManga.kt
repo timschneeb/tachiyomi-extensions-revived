@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.dreammanga
+package eu.kanade.tachiyomi.revived.en.dreammanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

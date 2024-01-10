@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.shiyurasub
+package eu.kanade.tachiyomi.revived.id.shiyurasub
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.source.model.MangasPage

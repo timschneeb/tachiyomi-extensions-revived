@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.amascans
+package eu.kanade.tachiyomi.revived.pt.amascans
 
 import eu.kanade.tachiyomi.multisrc.mmrcms.MMRCMS
 import eu.kanade.tachiyomi.network.GET

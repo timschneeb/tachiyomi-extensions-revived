@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.lhtranslation
+package eu.kanade.tachiyomi.revived.en.lhtranslation
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.miauscan
+package eu.kanade.tachiyomi.revived.all.miauscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.source.SourceFactory

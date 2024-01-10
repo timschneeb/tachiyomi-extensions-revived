@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.nhentaicom
+package eu.kanade.tachiyomi.revived.all.nhentaicom
 
 import eu.kanade.tachiyomi.multisrc.hentaihand.HentaiHand
 import eu.kanade.tachiyomi.source.Source

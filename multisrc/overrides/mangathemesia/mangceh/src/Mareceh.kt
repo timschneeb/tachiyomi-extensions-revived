@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.mangceh
+package eu.kanade.tachiyomi.revived.id.mangceh
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

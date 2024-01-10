@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.dokkomanga
+package eu.kanade.tachiyomi.revived.es.dokkomanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

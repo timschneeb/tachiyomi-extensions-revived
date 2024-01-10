@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.perfscan
+package eu.kanade.tachiyomi.revived.fr.perfscan
 
 import eu.kanade.tachiyomi.multisrc.heancms.HeanCms
 import eu.kanade.tachiyomi.network.interceptor.rateLimitHost

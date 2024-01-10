@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangaclashtv
+package eu.kanade.tachiyomi.revived.en.mangaclashtv
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

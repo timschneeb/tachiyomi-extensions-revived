@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hentaiwebtoon
+package eu.kanade.tachiyomi.revived.en.hentaiwebtoon
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

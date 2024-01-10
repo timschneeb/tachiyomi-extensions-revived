@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.mangasoul
+package eu.kanade.tachiyomi.revived.ar.mangasoul
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 

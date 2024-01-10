@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangacrazy
+package eu.kanade.tachiyomi.revived.all.mangacrazy
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.zh.kuaikuai3
+package eu.kanade.tachiyomi.revived.zh.kuaikuai3
 
 class Kuaikuai3 : MCCMSReduced("快快漫画3", "https://mobile3.manhuaorg.com") {
 

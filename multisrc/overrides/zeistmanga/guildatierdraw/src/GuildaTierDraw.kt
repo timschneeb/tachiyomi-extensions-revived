@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.guildatierdraw
+package eu.kanade.tachiyomi.revived.pt.guildatierdraw
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.lupiteam
+package eu.kanade.tachiyomi.revived.it.lupiteam
 
 import eu.kanade.tachiyomi.multisrc.pizzareader.PizzaReader
 

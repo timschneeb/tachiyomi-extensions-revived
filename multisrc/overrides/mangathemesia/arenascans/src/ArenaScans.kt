@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.arenascans
+package eu.kanade.tachiyomi.revived.en.arenascans
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 

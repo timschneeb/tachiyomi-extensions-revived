@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangaowlio
+package eu.kanade.tachiyomi.revived.en.mangaowlio
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

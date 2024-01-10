@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangaupdatestop
+package eu.kanade.tachiyomi.revived.en.mangaupdatestop
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.linkstartscan
+package eu.kanade.tachiyomi.revived.pt.linkstartscan
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

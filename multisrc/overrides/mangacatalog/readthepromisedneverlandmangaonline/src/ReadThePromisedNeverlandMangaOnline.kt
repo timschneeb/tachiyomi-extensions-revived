@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline
+package eu.kanade.tachiyomi.revived.en.readthepromisedneverlandmangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.berserkerscan
+package eu.kanade.tachiyomi.revived.es.berserkerscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

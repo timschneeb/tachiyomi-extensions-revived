@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.tenkaiscan
+package eu.kanade.tachiyomi.revived.es.tenkaiscan
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import java.text.SimpleDateFormat

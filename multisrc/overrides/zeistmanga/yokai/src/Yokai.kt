@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.yokai
+package eu.kanade.tachiyomi.revived.ar.yokai
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistMangaDto

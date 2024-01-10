@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.doujinhentai
+package eu.kanade.tachiyomi.revived.es.doujinhentai
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

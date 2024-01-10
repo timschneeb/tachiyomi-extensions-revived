@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.mintmanga
+package eu.kanade.tachiyomi.revived.ru.mintmanga
 
 import android.app.Application
 import android.content.SharedPreferences

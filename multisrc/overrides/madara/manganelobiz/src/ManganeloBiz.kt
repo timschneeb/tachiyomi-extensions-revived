@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.manganelobiz
+package eu.kanade.tachiyomi.revived.en.manganelobiz
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

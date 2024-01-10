@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hentaimanga
+package eu.kanade.tachiyomi.revived.en.hentaimanga
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

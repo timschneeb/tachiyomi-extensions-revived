@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.neumanga
+package eu.kanade.tachiyomi.revived.id.neumanga
 
 import eu.kanade.tachiyomi.multisrc.zmanga.ZManga
 import okhttp3.Headers

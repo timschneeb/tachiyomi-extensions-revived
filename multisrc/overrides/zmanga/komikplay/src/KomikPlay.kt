@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikplay
+package eu.kanade.tachiyomi.revived.id.komikplay
 
 import eu.kanade.tachiyomi.multisrc.zmanga.ZManga
 import eu.kanade.tachiyomi.network.GET

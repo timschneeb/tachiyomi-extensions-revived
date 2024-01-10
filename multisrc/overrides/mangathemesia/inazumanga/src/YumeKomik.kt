@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.inazumanga
+package eu.kanade.tachiyomi.revived.id.inazumanga
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

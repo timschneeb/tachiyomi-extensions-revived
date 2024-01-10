@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.arcrelight
+package eu.kanade.tachiyomi.revived.en.arcrelight
 
 import eu.kanade.tachiyomi.multisrc.mangadventure.MangAdventure
 

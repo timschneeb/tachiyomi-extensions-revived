@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.mangafire
+package eu.kanade.tachiyomi.revived.all.mangafire
 
 import eu.kanade.tachiyomi.source.SourceFactory
 

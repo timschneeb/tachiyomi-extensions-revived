@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.mangasee
+package eu.kanade.tachiyomi.revived.en.mangasee
 
 import eu.kanade.tachiyomi.multisrc.nepnep.NepNep
 import eu.kanade.tachiyomi.network.GET

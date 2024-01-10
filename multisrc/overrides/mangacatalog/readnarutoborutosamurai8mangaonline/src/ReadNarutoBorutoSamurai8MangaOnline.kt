@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readnarutoborutosamurai8mangaonline
+package eu.kanade.tachiyomi.revived.en.readnarutoborutosamurai8mangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

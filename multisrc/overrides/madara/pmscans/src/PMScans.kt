@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.pmscans
+package eu.kanade.tachiyomi.revived.en.pmscans
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

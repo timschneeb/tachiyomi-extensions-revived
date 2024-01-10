@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.tooncubus
+package eu.kanade.tachiyomi.revived.id.tooncubus
 
 import eu.kanade.tachiyomi.multisrc.zeistmanga.ZeistManga
 import eu.kanade.tachiyomi.network.GET

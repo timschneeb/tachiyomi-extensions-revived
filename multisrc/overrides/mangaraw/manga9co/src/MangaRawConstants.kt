@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.manga9co
+package eu.kanade.tachiyomi.revived.ja.manga9co
 
 /**
  * https://syosetu.me/ is not added because of different HTML structure

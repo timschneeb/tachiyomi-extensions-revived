@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.yaoilib
+package eu.kanade.tachiyomi.revived.ru.yaoilib
 
 import android.app.Application
 import android.content.SharedPreferences

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.dragontea
+package eu.kanade.tachiyomi.revived.en.dragontea
 
 import android.util.Base64
 import eu.kanade.tachiyomi.lib.cryptoaes.CryptoAES

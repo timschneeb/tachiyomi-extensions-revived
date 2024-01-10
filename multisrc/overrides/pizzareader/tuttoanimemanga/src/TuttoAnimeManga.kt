@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.it.tuttoanimemanga
+package eu.kanade.tachiyomi.revived.it.tuttoanimemanga
 
 import eu.kanade.tachiyomi.multisrc.pizzareader.PizzaReader
 import kotlinx.serialization.json.Json

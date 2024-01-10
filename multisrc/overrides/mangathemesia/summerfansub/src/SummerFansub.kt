@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.summerfansub
+package eu.kanade.tachiyomi.revived.pt.summerfansub
 
 import eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesia
 import eu.kanade.tachiyomi.network.interceptor.rateLimit

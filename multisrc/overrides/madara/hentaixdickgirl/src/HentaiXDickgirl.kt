@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.hentaixdickgirl
+package eu.kanade.tachiyomi.revived.en.hentaixdickgirl
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.source.model.SManga

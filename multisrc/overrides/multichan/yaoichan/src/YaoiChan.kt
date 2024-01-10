@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ru.yaoichan
+package eu.kanade.tachiyomi.revived.ru.yaoichan
 
 import eu.kanade.tachiyomi.multisrc.multichan.MultiChan
 import eu.kanade.tachiyomi.network.GET

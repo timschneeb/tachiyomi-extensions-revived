@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.fr.histoiredhentai
+package eu.kanade.tachiyomi.revived.fr.histoiredhentai
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

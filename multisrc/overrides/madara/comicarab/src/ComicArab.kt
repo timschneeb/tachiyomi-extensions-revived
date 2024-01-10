@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.comicarab
+package eu.kanade.tachiyomi.revived.ar.comicarab
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

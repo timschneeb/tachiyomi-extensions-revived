@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.nijitranslations
+package eu.kanade.tachiyomi.revived.ar.nijitranslations
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

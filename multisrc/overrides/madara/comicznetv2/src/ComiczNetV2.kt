@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.comicznetv2
+package eu.kanade.tachiyomi.revived.all.comicznetv2
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

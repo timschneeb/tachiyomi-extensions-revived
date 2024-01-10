@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ja.syosetu
+package eu.kanade.tachiyomi.revived.ja.syosetu
 
 import eu.kanade.tachiyomi.multisrc.mangaraw.MangaRawTheme
 import eu.kanade.tachiyomi.network.GET

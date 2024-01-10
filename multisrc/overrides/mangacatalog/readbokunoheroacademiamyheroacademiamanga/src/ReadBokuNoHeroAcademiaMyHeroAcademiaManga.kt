@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga
+package eu.kanade.tachiyomi.revived.en.readbokunoheroacademiamyheroacademiamanga
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 

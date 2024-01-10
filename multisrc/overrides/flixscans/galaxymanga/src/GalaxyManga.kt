@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ar.galaxymanga
+package eu.kanade.tachiyomi.revived.ar.galaxymanga
 
 import eu.kanade.tachiyomi.multisrc.flixscans.FlixScans
 import eu.kanade.tachiyomi.network.GET

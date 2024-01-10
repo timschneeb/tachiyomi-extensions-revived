@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.manhwa18cc
+package eu.kanade.tachiyomi.revived.all.manhwa18cc
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET

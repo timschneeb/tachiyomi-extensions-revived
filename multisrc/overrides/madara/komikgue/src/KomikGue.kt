@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.komikgue
+package eu.kanade.tachiyomi.revived.id.komikgue
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import java.text.SimpleDateFormat

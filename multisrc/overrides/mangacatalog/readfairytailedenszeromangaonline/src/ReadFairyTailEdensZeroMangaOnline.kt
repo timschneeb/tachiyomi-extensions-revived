@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline
+package eu.kanade.tachiyomi.revived.en.readfairytailedenszeromangaonline
 
 import eu.kanade.tachiyomi.multisrc.mangacatalog.MangaCatalog
 
