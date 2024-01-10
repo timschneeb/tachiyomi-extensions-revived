@@ -7,7 +7,7 @@ cp -R ~/apk-artifacts/ $PWD
 APKS=( **/*".apk" )
 
 # Fail if too little extensions seem to have been built
-if [ "${#APKS[@]}" -le "0" ]; then
+if [ "${#APKS[@]}" -le "10" ]; then
     echo "Insufficient amount of APKs found. Please check the project configuration."
     exit 1
 else

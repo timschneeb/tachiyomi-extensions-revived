@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.revived.en.firstkissmangatv
+package eu.kanade.tachiyomi.extension.en.firstkissmangatv
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 

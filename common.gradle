@@ -36,7 +36,7 @@ android {
             file.name.startsWith("CHANGELOG")
         }
         manifestPlaceholders = [
-                appName : "Tachiyomi: $extName (Revived)",
+                appName : "Tachiyomi: $extName",
                 extClass: extClass,
                 extFactory: project.ext.properties.getOrDefault("extFactory", ""),
                 nsfw: project.ext.properties.getOrDefault("isNsfw", false) ? 1 : 0,
