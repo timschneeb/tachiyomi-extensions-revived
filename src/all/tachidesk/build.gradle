@@ -1,0 +1,12 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlinx-serialization'
+
+ext {
+    extName = 'Suwayomi'
+    pkgNameSuffix = 'all.tachidesk'
+    extClass = '.Tachidesk'
+    extVersionCode = 12
+}
+
+apply from: "$rootDir/common.gradle"
