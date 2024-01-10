@@ -2,7 +2,7 @@
 
 This repository contains several source extensions that have been removed from the official repository.
 
-I'll probably keep maintaining the MangaDex extension here and push fixes if it breaks at some point in future.
+I'll probably keep maintaining the MangaDex extension here and push fixes if it breaks at some point in the future.
 
 Other sources are likely not going to be maintained actively by me and are stored here for archival purposes instead. Feel free to send pull requests for those, though.
 
