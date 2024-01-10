@@ -6,11 +6,8 @@ This repository contains all source extensions that have been removed from the o
 
 Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
 
-Google Play Protect may show a warning screen mentioning that the app is published by an unknown developer. This is because I had to use my own freshly created signing key that is not yet recognized by Google. This warning screen should stop showing up after my signing keys have built up enough reputation.
-
 > [!IMPORTANT]
-> Tachiyomi does not enable unofficial extension apps by default.
-> **You must manually press the 'TRUST' button** after installing the extension on Tachiyomi's extension management screen!
+> All extensions in this repo have a custom package name. While this technically allows you to install them alongside the old removed official extensions, it is not recommended and can cause issues. Uninstall the old extensions to avoid source conflicts.
 
 ## Downloads
 
