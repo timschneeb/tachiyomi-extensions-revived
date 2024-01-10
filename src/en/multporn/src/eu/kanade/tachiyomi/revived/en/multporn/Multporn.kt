@@ -12,6 +12,7 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.ParsedHttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import java.util.Locale
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonArray
@@ -29,7 +30,6 @@ import org.jsoup.nodes.Element
 import rx.Observable
 import rx.schedulers.Schedulers
 import uy.kohesive.injekt.injectLazy
-import java.util.Locale
 
 class Multporn : ParsedHttpSource() {
 

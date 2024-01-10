@@ -14,15 +14,15 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.ParsedHttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import java.nio.charset.Charset
+import java.text.SimpleDateFormat
+import java.util.Locale
 import okhttp3.Request
 import okhttp3.Response
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.get
-import java.nio.charset.Charset
-import java.text.SimpleDateFormat
-import java.util.Locale
 
 open class MangaOni : ConfigurableSource, ParsedHttpSource() {
 

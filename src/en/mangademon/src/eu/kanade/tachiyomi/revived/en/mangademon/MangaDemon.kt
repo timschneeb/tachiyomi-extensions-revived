@@ -10,6 +10,10 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.ParsedHttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import java.io.IOException
+import java.net.URLEncoder
+import java.text.SimpleDateFormat
+import java.util.Locale
 import okhttp3.HttpUrl.Companion.toHttpUrl
 import okhttp3.Interceptor
 import okhttp3.Request
@@ -18,10 +22,6 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import rx.Observable
-import java.io.IOException
-import java.net.URLEncoder
-import java.text.SimpleDateFormat
-import java.util.Locale
 
 class MangaDemon : ParsedHttpSource() {
 

@@ -1,9 +1,9 @@
 package eu.kanade.tachiyomi.revived.all.taddyink
 
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.Serializable
 import java.text.SimpleDateFormat
 import java.util.Locale
+import kotlinx.serialization.Serializable
 
 object TaddyUtils {
     private val formatter = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'", Locale.US)

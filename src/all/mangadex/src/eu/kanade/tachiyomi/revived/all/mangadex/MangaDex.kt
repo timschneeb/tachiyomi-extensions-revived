@@ -32,6 +32,7 @@ import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.HttpSource
+import java.util.Date
 import kotlinx.serialization.decodeFromString
 import okhttp3.CacheControl
 import okhttp3.Headers
@@ -42,7 +43,6 @@ import okhttp3.Response
 import rx.Observable
 import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.get
-import java.util.Date
 
 abstract class MangaDex(final override val lang: String, private val dexLang: String = lang) :
     ConfigurableSource, HttpSource() {

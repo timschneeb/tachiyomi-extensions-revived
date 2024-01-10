@@ -2,12 +2,12 @@ package eu.kanade.tachiyomi.revived.en.voyceme
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
+import java.text.SimpleDateFormat
+import java.util.Locale
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import org.jsoup.Jsoup
 import org.jsoup.parser.Parser
-import java.text.SimpleDateFormat
-import java.util.Locale
 
 @Serializable
 data class VoyceMeComic(

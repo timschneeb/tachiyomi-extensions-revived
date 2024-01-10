@@ -1,9 +1,9 @@
 package eu.kanade.tachiyomi.revived.en.kouhaiwork
 
-import kotlinx.serialization.Serializable
 import java.text.DecimalFormat
 import java.text.SimpleDateFormat
 import java.util.Locale
+import kotlinx.serialization.Serializable
 
 const val ID_QUERY = "id:"
 

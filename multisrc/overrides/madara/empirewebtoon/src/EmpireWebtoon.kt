@@ -6,10 +6,10 @@ import android.widget.Toast
 import androidx.preference.PreferenceScreen
 import eu.kanade.tachiyomi.revived.BuildConfig
 import eu.kanade.tachiyomi.multisrc.madara.Madara
-import uy.kohesive.injekt.Injekt
-import uy.kohesive.injekt.api.get
 import java.text.SimpleDateFormat
 import java.util.Locale
+import uy.kohesive.injekt.Injekt
+import uy.kohesive.injekt.api.get
 
 class EmpireWebtoon : Madara(
     "Empire Webtoon",

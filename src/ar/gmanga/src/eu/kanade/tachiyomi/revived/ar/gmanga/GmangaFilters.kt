@@ -3,6 +3,8 @@ package eu.kanade.tachiyomi.revived.ar.gmanga
 import android.annotation.SuppressLint
 import eu.kanade.tachiyomi.source.model.Filter
 import eu.kanade.tachiyomi.source.model.FilterList
+import java.text.ParseException
+import java.text.SimpleDateFormat
 import kotlinx.serialization.json.JsonNull
 import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.JsonObjectBuilder
@@ -11,8 +13,6 @@ import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.put
 import kotlinx.serialization.json.putJsonArray
 import kotlinx.serialization.json.putJsonObject
-import java.text.ParseException
-import java.text.SimpleDateFormat
 
 class GmangaFilters() {
 

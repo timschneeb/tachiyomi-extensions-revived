@@ -22,6 +22,12 @@ import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.model.UpdateStrategy
 import eu.kanade.tachiyomi.source.online.HttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import java.net.URI
+import java.util.Locale
+import java.util.concurrent.TimeUnit
+import kotlin.math.floor
+import kotlin.math.log10
+import kotlin.math.pow
 import kotlinx.serialization.json.Json
 import okhttp3.HttpUrl
 import okhttp3.HttpUrl.Companion.toHttpUrl
@@ -31,12 +37,6 @@ import okhttp3.Request
 import okhttp3.Response
 import org.jsoup.nodes.Document
 import rx.Observable
-import java.net.URI
-import java.util.Locale
-import java.util.concurrent.TimeUnit
-import kotlin.math.floor
-import kotlin.math.log10
-import kotlin.math.pow
 
 /**
  * [Project Suki](https://projectsuki.com)

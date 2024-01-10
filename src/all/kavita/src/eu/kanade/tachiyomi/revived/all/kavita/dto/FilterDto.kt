@@ -1,7 +1,7 @@
 package eu.kanade.tachiyomi.revived.all.kavita.dto
 
-import kotlinx.serialization.Serializable
 import kotlin.Triple
+import kotlinx.serialization.Serializable
 
 @Serializable
 data class FilterV2Dto(

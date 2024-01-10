@@ -2,9 +2,9 @@ package eu.kanade.tachiyomi.revived.all.mangaup
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
+import java.util.Date
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-import java.util.Date
 
 @Serializable
 data class MangaUpSearch(

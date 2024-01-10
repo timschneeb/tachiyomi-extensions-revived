@@ -2,10 +2,10 @@ package eu.kanade.tachiyomi.revived.all.comickfun
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.SerialName
-import kotlinx.serialization.Serializable
 import java.math.BigDecimal
 import java.math.RoundingMode
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
 
 @Serializable
 data class SearchManga(

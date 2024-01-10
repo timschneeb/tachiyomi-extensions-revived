@@ -9,6 +9,7 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.ParsedHttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import kotlin.random.Random
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonObject
@@ -22,7 +23,6 @@ import org.jsoup.nodes.Element
 import org.jsoup.parser.Parser
 import rx.Observable
 import uy.kohesive.injekt.injectLazy
-import kotlin.random.Random
 
 class ScanManga : ParsedHttpSource() {
 

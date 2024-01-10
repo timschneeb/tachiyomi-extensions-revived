@@ -2,9 +2,9 @@ package eu.kanade.tachiyomi.revived.en.infinityscans
 
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
-import kotlinx.serialization.Serializable
 import java.text.SimpleDateFormat
 import java.util.Locale
+import kotlinx.serialization.Serializable
 
 @Serializable
 class ResponseDto<T>(val result: T)

@@ -6,6 +6,7 @@ import android.util.Base64
 import androidx.preference.SwitchPreferenceCompat
 import eu.kanade.tachiyomi.network.GET
 import eu.kanade.tachiyomi.util.asJsoup
+import java.util.Locale
 import kotlinx.serialization.decodeFromByteArray
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToByteArray
@@ -17,7 +18,6 @@ import okhttp3.Response
 import org.jsoup.parser.Parser.unescapeEntities
 import org.jsoup.select.Evaluator
 import uy.kohesive.injekt.injectLazy
-import java.util.Locale
 
 fun getPreferences(context: Context) = arrayOf(
     SwitchPreferenceCompat(context).apply {

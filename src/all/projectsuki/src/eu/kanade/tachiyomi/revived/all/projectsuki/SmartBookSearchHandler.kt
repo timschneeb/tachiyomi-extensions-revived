@@ -9,11 +9,11 @@ import android.os.Build
 import androidx.annotation.RequiresApi
 import eu.kanade.tachiyomi.source.model.MangasPage
 import eu.kanade.tachiyomi.source.model.SManga
-import okhttp3.HttpUrl
 import java.text.StringCharacterIterator
 import java.util.TreeMap
 import kotlin.properties.PropertyDelegateProvider
 import kotlin.reflect.KProperty
+import okhttp3.HttpUrl
 
 /**
  *  @see EXTENSION_INFO Found in ProjectSuki.kt

@@ -2,10 +2,10 @@
 
 package eu.kanade.tachiyomi.revived.all.netcomics
 
-import kotlinx.serialization.Serializable
-import org.jsoup.Jsoup
 import java.text.SimpleDateFormat
 import java.util.Locale
+import kotlinx.serialization.Serializable
+import org.jsoup.Jsoup
 
 internal const val API_URL = "https://beta-api.netcomics.com/api/v1"
 

@@ -10,6 +10,9 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.HttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import java.io.IOException
+import java.nio.charset.Charset
+import java.util.Calendar
 import okhttp3.CacheControl
 import okhttp3.Call
 import okhttp3.Callback
@@ -22,9 +25,6 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.nodes.Node
 import org.jsoup.nodes.TextNode
-import java.io.IOException
-import java.nio.charset.Charset
-import java.util.Calendar
 
 class MangaDoom : HttpSource() {
 

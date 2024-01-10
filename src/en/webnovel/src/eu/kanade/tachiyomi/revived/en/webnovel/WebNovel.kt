@@ -9,6 +9,10 @@ import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.HttpSource
+import java.io.IOException
+import java.util.Calendar
+import java.util.Date
+import java.util.Locale
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import okhttp3.HttpUrl
@@ -19,10 +23,6 @@ import okhttp3.Request
 import okhttp3.Response
 import rx.Observable
 import uy.kohesive.injekt.injectLazy
-import java.io.IOException
-import java.util.Calendar
-import java.util.Date
-import java.util.Locale
 
 class WebNovel : HttpSource() {
 

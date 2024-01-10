@@ -9,6 +9,7 @@ import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.ParsedHttpSource
+import java.io.IOException
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonObject
 import okhttp3.HttpUrl.Companion.toHttpUrlOrNull
@@ -21,7 +22,6 @@ import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
 import rx.Observable
 import uy.kohesive.injekt.injectLazy
-import java.io.IOException
 
 class IMHentai(override val lang: String, private val imhLang: String) : ParsedHttpSource() {
 

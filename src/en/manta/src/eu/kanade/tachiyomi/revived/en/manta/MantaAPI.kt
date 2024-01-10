@@ -1,8 +1,8 @@
 package eu.kanade.tachiyomi.revived.en.manta
 
-import kotlinx.serialization.Serializable
 import java.text.SimpleDateFormat
 import java.util.Locale
+import kotlinx.serialization.Serializable
 
 private val isoDate by lazy {
     SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss", Locale.ROOT)

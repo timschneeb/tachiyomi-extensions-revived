@@ -2,8 +2,8 @@ package eu.kanade.tachiyomi.revived.all.simplycosplay
 
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.model.UpdateStrategy
-import kotlinx.serialization.Serializable
 import java.util.Locale
+import kotlinx.serialization.Serializable
 
 typealias browseResponse = Data<List<BrowseItem>>
 

@@ -17,6 +17,9 @@ import eu.kanade.tachiyomi.source.model.Page
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.HttpSource
+import java.io.IOException
+import java.security.MessageDigest
+import kotlin.math.max
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonArray
@@ -33,9 +36,6 @@ import rx.Single
 import rx.schedulers.Schedulers
 import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.get
-import java.io.IOException
-import java.security.MessageDigest
-import kotlin.math.max
 
 open class LANraragi(private val suffix: String = "") : ConfigurableSource, UnmeteredSource, HttpSource() {
     override val baseUrl by lazy { getPrefBaseUrl() }

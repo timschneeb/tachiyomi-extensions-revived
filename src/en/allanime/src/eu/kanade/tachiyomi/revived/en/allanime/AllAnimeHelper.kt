@@ -1,6 +1,8 @@
 package eu.kanade.tachiyomi.revived.en.allanime
 
 import eu.kanade.tachiyomi.source.model.SManga
+import java.text.SimpleDateFormat
+import java.util.Locale
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
@@ -10,8 +12,6 @@ import okhttp3.RequestBody
 import okhttp3.RequestBody.Companion.toRequestBody
 import okhttp3.Response
 import org.jsoup.Jsoup
-import java.text.SimpleDateFormat
-import java.util.Locale
 
 object AllAnimeHelper {
 

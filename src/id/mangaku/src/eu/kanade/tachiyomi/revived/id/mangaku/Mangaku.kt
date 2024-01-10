@@ -14,6 +14,7 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.ParsedHttpSource
 import eu.kanade.tachiyomi.util.asJsoup
+import java.security.MessageDigest
 import okhttp3.FormBody
 import okhttp3.Headers
 import okhttp3.Request
@@ -22,7 +23,6 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
 import rx.Observable
-import java.security.MessageDigest
 
 class Mangaku : ParsedHttpSource() {
 
