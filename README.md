@@ -3,16 +3,10 @@
 This repository contains all source extensions that have been removed from the official repository.
 
 
-As Tachiyomi has been discontinued, independent community members have already announced a new spiritual successor called Mihon. You can find their Discord here: https://discord.gg/mihon
-
-There's also another, more active extension repo available here: https://github.com/keiyoushi/extensions
-
-## Usage
-
-Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
-
-> [!IMPORTANT]
-> All extensions in this repo have a custom package name. While this technically allows you to install them alongside the old removed official extensions, it is not recommended and can cause issues. Uninstall the old extensions to avoid source conflicts.
+> [!NOTE]
+> As Tachiyomi has been discontinued, independent community members have already announced a new spiritual successor called Mihon. You can find their Discord here: https://discord.gg/mihon
+> 
+> There's also another, more active extension repo available here: https://github.com/keiyoushi/extensions
 
 ## Downloads
 
@@ -28,9 +22,7 @@ Starting with the latest [Tachiyomi version](https://tachiyomi.org/download/) (v
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
 > [!NOTE]
-> Unofficial extensions must be manually re-approved on Tachiyomi's extension management screen after installing an update for an extension!
->
-> If Tachiyomi suddenly complains about a missing source, then there probably was an extension update that needs to be approved.
+> All extensions in this repo have a custom package name. While this technically allows you to install them alongside the old removed official extensions, it is not recommended and can cause issues. Uninstall the old extensions to avoid source conflicts.
 
 ### Direct APK downloads
 You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
