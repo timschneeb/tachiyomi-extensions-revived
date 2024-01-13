@@ -2,6 +2,11 @@
 
 This repository contains all source extensions that have been removed from the official repository.
 
+
+As Tachiyomi has been discontinued, independent community members have already announced a new spiritual successor called Mihon. You can find their Discord here: https://discord.gg/mihon
+
+There's also another, more active extension repo available here: https://github.com/keiyoushi/extensions
+
 ## Usage
 
 Extension sources can be downloaded, installed, and uninstalled via the main Tachiyomi app. They are installed and uninstalled like regular apps, in `.apk` format.
