@@ -82,10 +82,9 @@ class OtakuSanctuaryHelper(private val lang: String) {
                 url = url.replace("file-comic-99.anyacg.co/uploads", "file-bato-0001.bato.to")
             }
         }
-
-        if (url.contains("cdn.nettruyen.com")) {
+        if (url.contains("cdn.nettruyenclub.com")) {
             url = url.replace(
-                "cdn.nettruyen.com/Data/Images/",
+                "cdn.nettruyenclub.com/Data/Images/",
                 "truyen.cloud/data/images/",
             )
         }
