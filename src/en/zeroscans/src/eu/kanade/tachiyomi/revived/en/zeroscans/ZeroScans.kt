@@ -26,7 +26,7 @@ class ZeroScans : HttpSource() {
 
     override val lang: String = "en"
 
-    override val baseUrl: String = "https://zeroscans.com"
+    override val baseUrl: String = "https://zscans.com/"
 
     override val supportsLatest: Boolean = true
 
