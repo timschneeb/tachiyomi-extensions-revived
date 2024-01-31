@@ -12,7 +12,7 @@ import okhttp3.Request
 import org.jsoup.nodes.Element
 import java.util.concurrent.TimeUnit
 
-class SekteKomik : ZManga("Sekte Komik", "https://sektekomik.com", "id") {
+class SekteKomik : ZManga("Sekte Komik", "https://sektekomik.xyz", "id") {
     // Formerly "Sekte Komik (WP Manga Stream)"
     override val id = 7866629035053218469
 
