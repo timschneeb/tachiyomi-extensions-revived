@@ -19982,8 +19982,8 @@
     "pkg": "eu.kanade.tachiyomi.revived.es.olympusscanlation",
     "apk": "tachiyomi-es.olympusscanlation-revived-v1.4.6.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19992,7 +19992,7 @@
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://olympusvisor.com",
+        "baseUrl": "https://visorolym.com",
         "versionId": 2,
         "hasCloudflare": 0
       }
