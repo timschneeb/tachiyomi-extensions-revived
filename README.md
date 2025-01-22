@@ -1,10 +1,9 @@
-# ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions Revived
-
-**This repository has been archived. Please migrate to this extension repo: https://github.com/keiyoushi/extensions**
+# ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions Archive
 
 
-> [!NOTE]
-> As Tachiyomi has been discontinued, independent community members have already announced a new spiritual successor called Mihon. You can find their Discord here: https://discord.gg/mihon
+> [!IMPORTANT]
+> **This repository has been archived and is only kept for historical purposes. Please migrate to this extension repo: https://github.com/keiyoushi/extensions**
+
 
 ## Downloads
 
